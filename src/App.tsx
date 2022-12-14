@@ -1,39 +1,21 @@
-import React, { useEffect, useState, createContext } from 'react';
-import {
-  ApiDataResponse,
-  Category,
-  Categories,
-  Questions
-} from 'models/types';
-import { getCategories, getQuestions } from 'models/api';
-import 'styles/App.css';
+import { Box } from '@mui/material';
 
-export const DataContext = 
-    createContext<ApiDataResponse>({ questions: [], categories: [] });
+import Header from 'components/Header';
+import Board from 'components/Board';
+
+import 'styles/app.css';
 
 const App = () => {
-  const [categories, setCategories] = useState<Categories>([]);
-  const [questions, setQuestions] = useState<Questions>([]);
-
-  useEffect(() => {
-    (async () => {
-      const categories = await getCategories();
-      const questions = await getQuestions();
-
-      setCategories(categories);
-      setQuestions(questions);
-    })();
-  }, []);
-
-
   return (
-    <>
-      { 
-        categories.map((c: Category) => {
-          return(<div key={c.id}>{c.name}</div>)
-        })
-      }
-    </>
+    <Box
+      width="100%"
+      display="flex"
+      flexDirection="column"
+      className="app"
+    >
+      <Header />
+      <Board />
+    </Box>
   );
 };
 

@@ -12,7 +12,7 @@ export type Questions = Question[];
 export interface Category {
 	id: number;
 	name: string;
-	question_ids: number[];
+	questionIds: number[];
 };
 
 export type Categories = Category[];
