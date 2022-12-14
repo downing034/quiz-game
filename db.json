@@ -29,7 +29,7 @@
  			"id": "6",
  			"name": "Nature",
  			"question_ids": [6, 12, 18, 24, 30, 36]
- 		},
+ 		}
   ],
   "questions": [
     {
