@@ -1,8 +1,16 @@
 import { Questions, Categories } from 'models/types';
 
 const API_URL = "https://my-json-server.typicode.com/downing034/quiz-game";
-const QUESTIONS_URL = API_URL + "/questions";
-const CATEGORIES_URL = API_URL + "/categories";
+export const QUESTIONS_URL = API_URL + "/questions";
+export const CATEGORIES_URL = API_URL + "/categories";
+
+export const parseString = (value: any): string => {
+  return value ? String(value) : '';
+}
+
+export const parseNumber = (value: any): number => {
+  return value ? Number(value) : 0;
+}
 
 export async function fetchJSON(url: string): Promise<any> {
   const response = await fetch(url);
@@ -21,8 +29,20 @@ export const getQuestions = async (): Promise<Questions> => {
 	try {
 		const questionsResponse = await fetchJSON(QUESTIONS_URL);
 
-		const questions: Questions = 
-			questionsResponse.length > 0 ? questionsResponse : [];
+		let questions: Questions = [];
+
+		if (questionsResponse && questionsResponse.length > 0) {
+			for (const question of questionsResponse) {
+				questions.push({
+					id: parseNumber(question.id),
+					questionText: parseString(question.questionText),
+					answerText: parseString(question.answerText),
+					showQuestion: question.showQuestion,
+					value: parseNumber(question.value),
+					clicked: question.clicked
+				})
+			}
+		};
 
 		return questions;
 
@@ -35,11 +55,26 @@ export const getCategories = async (): Promise<Categories> => {
 	try {
 		const categoriesResponse = await fetchJSON(CATEGORIES_URL);
 
-		const categories: Categories = 
-			categoriesResponse.length > 0 ? categoriesResponse : [];
+		let categories: Categories = [];
+
+		if (categoriesResponse && categoriesResponse.length > 0) {
+			for (const category of categoriesResponse) {
+				const questionIds: number[] = [];
+
+				for (const questionId of questionIds) {
+					questionIds.push(parseNumber(questionId));
+				}
+
+				category.push({
+					id: parseNumber(category.id),
+					name: parseString(category.name),
+					questionIds
+				})
+			}
+		};
 
 		return categories;
-
+		
 	} catch (e: any) {
 		return e.message;
 	}
