@@ -1,26 +1,39 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState, createContext } from 'react';
+import {
+  ApiDataResponse,
+  Category,
+  Categories,
+  Questions
+} from 'models/types';
+import { getApiData } from 'models/api';
+import 'styles/App.css';
 
-function App() {
+export const DataContext = 
+    createContext<ApiDataResponse>({ questions: [], categories: [] });
+
+const App = () => {
+  const [categories, setCategories] = useState<Categories>([]);
+  const [questions, setQuestions] = useState<Questions>([]);
+
+  useEffect(() => {
+    (async () => {
+      const response = await getApiData();
+      setQuestions(response.questions);
+      setCategories(response.categories);
+    })();
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      { 
+        categories.map((c: Category) => {
+          return(<div key={c.id}>{c.name}</div>)
+        })
+      }
+    </>
   );
-}
+};
+
+
 
 export default App;
