@@ -4,7 +4,7 @@ import {
 	Categories,
 } from 'models/types';
 
-export const API_URL = "https://my-json-server.typicode.com/downing034/quiz-game/models";
+export const API_URL = "https://my-json-server.typicode.com/downing034/quiz-game";
 
 export async function fetchJSON(url: string): Promise<any> {
   const response = await fetch(url);
