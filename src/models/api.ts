@@ -1,10 +1,8 @@
-import {
-	ApiDataResponse,
-	Questions,
-	Categories,
-} from 'models/types';
+import { Questions, Categories } from 'models/types';
 
-export const API_URL = "https://my-json-server.typicode.com/downing034/quiz-game";
+const API_URL = "https://my-json-server.typicode.com/downing034/quiz-game";
+const QUESTIONS_URL = API_URL + "/questions";
+const CATEGORIES_URL = API_URL + "/categories";
 
 export async function fetchJSON(url: string): Promise<any> {
   const response = await fetch(url);
@@ -19,23 +17,30 @@ export async function fetchJSON(url: string): Promise<any> {
   }
 }
 
-export const getApiData = async (): Promise<ApiDataResponse> => {
+export const getQuestions = async (): Promise<Questions> => {
 	try {
-		const apiResponse = await fetchJSON(API_URL);
-		const responseData = await apiResponse.json();
+		const questionsResponse = await fetchJSON(QUESTIONS_URL);
 
 		const questions: Questions = 
-			responseData.quesitons ? responseData.quesitons : [];
+			questionsResponse.length > 0 ? questionsResponse : [];
+
+		return questions;
+
+	} catch (e: any) {
+		return e.message;
+	}
+};
+
+export const getCategories = async (): Promise<Categories> => {
+	try {
+		const categoriesResponse = await fetchJSON(CATEGORIES_URL);
 
 		const categories: Categories = 
-			responseData.categories ? responseData.categories : [];
+			categoriesResponse.length > 0 ? categoriesResponse : [];
 
-		return {
-			questions: [],
-			categories: []
-		};
+		return categories;
 
-  } catch (e: any) {
-    return e.message;
-  };
+	} catch (e: any) {
+		return e.message;
+	}
 };

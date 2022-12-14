@@ -5,7 +5,7 @@ import {
   Categories,
   Questions
 } from 'models/types';
-import { getApiData } from 'models/api';
+import { getCategories, getQuestions } from 'models/api';
 import 'styles/App.css';
 
 export const DataContext = 
@@ -17,11 +17,14 @@ const App = () => {
 
   useEffect(() => {
     (async () => {
-      const response = await getApiData();
-      setQuestions(response.questions);
-      setCategories(response.categories);
+      const categories = await getCategories();
+      const questions = await getQuestions();
+
+      setCategories(categories);
+      setQuestions(questions);
     })();
   }, []);
+
 
   return (
     <>
