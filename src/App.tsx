@@ -1,5 +1,6 @@
 import { Box } from '@mui/material';
 
+import { LoadingContextProvider } from 'contexts';
 import Header from 'components/Header';
 import Board from 'components/Board';
 
@@ -14,7 +15,9 @@ const App = () => {
       className="app"
     >
       <Header />
-      <Board />
+      <LoadingContextProvider>
+        <Board />
+      </LoadingContextProvider>
     </Box>
   );
 };

@@ -6,7 +6,8 @@ export const questionOne: Question = {
   answerText: "Harold & the Purple Crayon",
   showQuestion: false,
   value: 200,
-  clicked: false
+  clicked: false,
+  categoryId: 1
 };
 
 export const questionTwo: Question = {
@@ -15,7 +16,8 @@ export const questionTwo: Question = {
   answerText: "Cloth Diaper",
   showQuestion: false,
   value: 200,
-  clicked: false
+  clicked: false,
+  categoryId: 2
 };
 
 export const questions = [questionOne, questionTwo];
