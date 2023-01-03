@@ -67,281 +67,276 @@
       ]
     }
   ],
-  "questions":[
+  "questions": [
     {
-      "id":1,
-      "questionText":"This book references a small boy and his art instrument",
-      "answerText":"Harold & the Purple Crayon",
-      "showQuestion":false,
-      "value":200,
-      "clicked":false,
-      "category_id":1
+      "id": 1,
+      "questionText": "Catcher in the Rye",
+      "answerText": "J. D. Salinger",
+      "showQuestion": false,
+      "value": 200,
+      "clicked": false,
+      "category_id": 1
     },
     {
-      "id":2,
-      "questionText":"This type of diaper is reusable when washed.",
-      "answerText":"Cloth Diaper",
-      "showQuestion":false,
-      "value":200,
-      "clicked":false,
-      "category_id":2
+      "id": 2,
+      "questionText": "The Shawshank Redemption",
+      "answerText": "1990 (1994)",
+      "showQuestion": false,
+      "value": 200,
+      "clicked": false,
+      "category_id": 2
     },
     {
-      "id":3,
-      "questionText":"",
-      "answerText":"Carrots",
-      "showQuestion":false,
-      "value":200,
-      "clicked":false,
-      "src":"./images/200.jpeg",
-      "category_id":3
+      "id": 3,
+      "questionText": " 101 Dalmations",
+      "answerText": "Cruella Devil",
+      "showQuestion": false,
+      "value": 200,
+      "clicked": false,
+      "category_id": 3
     },
     {
-      "id":4,
-      "questionText":"According to Grandma Pam, this is what you do when a baby cries",
-      "answerText":"Pick him/her up",
-      "showQuestion":false,
-      "value":200,
-      "clicked":false,
-      "category_id":4
+      "id": 4,
+      "questionText": "How many herbs and spices are in Colonel Sanders' original KFC recipe",
+      "answerText": "11",
+      "showQuestion": false,
+      "value": 200,
+      "clicked": false,
+      "category_id": 4
     },
     {
-      "id":5,
-      "questionText":"This is the hand mam uses when playing tennis",
-      "answerText":"left",
-      "showQuestion":false,
-      "value":200,
-      "clicked":false,
-      "category_id":5
+      "id": 5,
+      "questionText": "Which country has the smallest population at just over 800 people",
+      "answerText": "Vatican City",
+      "showQuestion": false,
+      "value": 200,
+      "clicked": false,
+      "category_id": 5
     },
     {
-      "id":6,
-      "questionText":"This person is notorious for her rum cake",
-      "answerText":"Kathy Vogel",
-      "showQuestion":false,
-      "value":200,
-      "clicked":false,
-      "category_id":6
+      "id": 6,
+      "questionText": "The widest tornado ever recorded was in this U.S. state in 2013. It was 2.6 miles wide",
+      "answerText": "El Reno, Oklahoma ",
+      "showQuestion": false,
+      "value": 200,
+      "clicked": false,
+      "category_id": 6
     },
     {
-      "id":7,
-      "questionText":"This author, who wrote 'The Very Hungry Caterpillar', recently died of kidney failure",
-      "answerText":"Eric Carle",
-      "showQuestion":false,
-      "value":400,
-      "clicked":false,
-      "category_id":1
+      "id": 7,
+      "questionText": "Holes",
+      "answerText": "Louis Sachar",
+      "showQuestion": false,
+      "value": 400,
+      "clicked": false,
+      "category_id": 1
     },
     {
-      "id":8,
-      "questionText":"This kind of Pampers Diaper was voted 'Best Diaper'",
-      "answerText":"Swaddlers",
-      "showQuestion":false,
-      "value":400,
-      "clicked":false,
-      "category_id":2
+      "id": 8,
+      "questionText": "The Godfather",
+      "answerText": "1970 (1972)",
+      "showQuestion": false,
+      "value": 400,
+      "clicked": false,
+      "category_id": 2
     },
     {
-      "id":9,
-      "questionText":"",
-      "answerText":"Bananas",
-      "showQuestion":false,
-      "value":400,
-      "clicked":false,
-      "src":"./images/400.jpeg",
-      "category_id":3
+      "id": 9,
+      "questionText": "Star Wars",
+      "answerText": "Darth Vader",
+      "showQuestion": false,
+      "value": 400,
+      "clicked": false,
+      "category_id": 3
     },
     {
-      "id":10,
-      "questionText":"What day will Grandma Pam be on high phone alert (baby's due date)",
-      "answerText":"August 10th, 2021",
-      "showQuestion":false,
-      "value":400,
-      "clicked":false,
-      "category_id":4
+      "id": 10,
+      "questionText": "Which fast-food franchise is credited with creating the very first, modern drive-thru window",
+      "answerText": "Wendy's",
+      "showQuestion": false,
+      "value": 400,
+      "clicked": false,
+      "category_id": 4
     },
     {
-      "id":11,
-      "questionText":"This is mama's zodiac sign (hint: her birthday is in November)",
-      "answerText":"Scorpio",
-      "showQuestion":false,
-      "value":400,
-      "clicked":false,
-      "category_id":5
+      "id": 11,
+      "questionText": "Which country has the most islands",
+      "answerText": "Sweden",
+      "showQuestion": false,
+      "value": 400,
+      "clicked": false,
+      "category_id": 5
     },
     {
-      "id":12,
-      "questionText":"This person believes in excessive tipping, especially during COVID",
-      "answerText":"Marti Estey (usually at least 50% of the check!)",
-      "showQuestion":false,
-      "value":400,
-      "clicked":false,
-      "category_id":6
+      "id": 12,
+      "questionText": "After humans, which animal is the next most populus in the world",
+      "answerText": "Cow",
+      "showQuestion": false,
+      "value": 400,
+      "clicked": false,
+      "category_id": 6
     },
     {
-      "id":13,
-      "questionText":"This book tells the story of a girl, pig, and spider",
-      "answerText":"Charlotte’s Web",
-      "showQuestion":false,
-      "value":600,
-      "clicked":false,
-      "category_id":1
+      "id": 13,
+      "questionText": "Charlotte's Web",
+      "answerText": "E. B. White",
+      "showQuestion": false,
+      "value": 600,
+      "clicked": false,
+      "category_id": 1
     },
     {
-      "id":14,
-      "questionText":"This can be used to alleviate chaffing",
-      "answerText":"Rash Cream",
-      "showQuestion":false,
-      "value":600,
-      "clicked":false,
-      "category_id":2
+      "id": 14,
+      "questionText": "Inception",
+      "answerText": "2010 (2010)",
+      "showQuestion": false,
+      "value": 600,
+      "clicked": false,
+      "category_id": 2
     },
     {
-      "id":15,
-      "questionText":"",
-      "answerText":"Chicken",
-      "showQuestion":false,
-      "value":600,
-      "clicked":false,
-      "src":"./images/600.jpeg",
-      "category_id":3
+      "id": 15,
+      "questionText": "Silence of the Lambs",
+      "answerText": "Hannibal Lecter",
+      "showQuestion": false,
+      "value": 600,
+      "clicked": false,
+      "category_id": 3
     },
     {
-      "id":16,
-      "questionText":"Besides kids, this is the other 'love' Grandma Pam has",
-      "answerText":"Animals",
-      "showQuestion":false,
-      "value":600,
-      "clicked":false,
-      "category_id":4
+      "id": 16,
+      "questionText": "What state was the first Pizza Hut restaurant built",
+      "answerText": "Wichita, Kansas",
+      "showQuestion": false,
+      "value": 600,
+      "clicked": false,
+      "category_id": 4
     },
     {
-      "id":17,
-      "questionText":"This is where mama lived before moving back to Minnesota",
-      "answerText":"Philadelphia",
-      "showQuestion":false,
-      "value":600,
-      "clicked":false,
-      "category_id":5
+      "id": 17,
+      "questionText": "Which country has the most coastline",
+      "answerText": "Canada",
+      "showQuestion": false,
+      "value": 600,
+      "clicked": false,
+      "category_id": 5
     },
     {
-      "id":18,
-      "questionText":"This attendee makes the best margaritas north of the Mexican border",
-      "answerText":"Peg Unger",
-      "showQuestion":false,
-      "value":600,
-      "clicked":false,
-      "category_id":6
+      "id": 18,
+      "questionText": "On average, how many lunar eclipses are there a year",
+      "answerText": "2",
+      "showQuestion": false,
+      "value": 600,
+      "clicked": false,
+      "category_id": 6
     },
     {
-      "id":19,
-      "questionText":"This book shares the story of a bear and his friends in the 100-acre woods",
-      "answerText":"Winnie the Pooh",
-      "showQuestion":false,
-      "value":800,
-      "clicked":false,
-      "category_id":1
+      "id": 19,
+      "questionText": "Moby Dick",
+      "answerText": "Herman Melville",
+      "showQuestion": false,
+      "value": 800,
+      "clicked": false,
+      "category_id": 1
     },
     {
-      "id":20,
-      "questionText":"This brand of diapers in a red box were introduced to the public in 1978",
-      "answerText":"Huggies",
-      "showQuestion":false,
-      "value":800,
-      "clicked":false,
-      "category_id":2
+      "id": 20,
+      "questionText": "Back to the Future",
+      "answerText": "1985 (1985)",
+      "showQuestion": false,
+      "value": 800,
+      "clicked": false,
+      "category_id": 2
     },
     {
-      "id":21,
-      "questionText":"",
-      "answerText":"Pear",
-      "showQuestion":false,
-      "value":800,
-      "clicked":false,
-      "src":"./images/800.jpeg",
-      "category_id":3
+      "id": 21,
+      "questionText": "Back to the Future",
+      "answerText": "Biff Tannen",
+      "showQuestion": false,
+      "value": 800,
+      "clicked": false,
+      "category_id": 3
     },
     {
-      "id":22,
-      "questionText":"This is what Pam did when they said they were expecting",
-      "answerText":"Jumped up & down; screamed",
-      "showQuestion":false,
-      "value":800,
-      "clicked":false,
-      "category_id":4
+      "id": 22,
+      "questionText": "July 13th is dedicated to which fast food in the U.S.A.",
+      "answerText": "French Fries",
+      "showQuestion": false,
+      "value": 800,
+      "clicked": false,
+      "category_id": 4
     },
     {
-      "id":23,
-      "questionText":"This is the name of mama's husband",
-      "answerText":"Nick",
-      "showQuestion":false,
-      "value":800,
-      "clicked":false,
-      "category_id":5
+      "id": 23,
+      "questionText": "Which country tends to experience the highest average rainfall annually",
+      "answerText": "Colombia",
+      "showQuestion": false,
+      "value": 800,
+      "clicked": false,
+      "category_id": 5
     },
     {
-      "id":24,
-      "questionText":"This person has a boyfriend who she frequently visits in Detroit",
-      "answerText":"Molly Hemes",
-      "showQuestion":false,
-      "value":800,
-      "clicked":false,
-      "category_id":6
+      "id": 24,
+      "questionText": "How tall is the tallest red wood tree (in ft)",
+      "answerText": "380ft (the Hyperion) in CA, USA",
+      "showQuestion": false,
+      "value": 800,
+      "clicked": false,
+      "category_id": 6
     },
     {
-      "id":25,
-      "questionText":"This book's title has two numbers; 17 Kings and 42 of these",
-      "answerText":"Elephants",
-      "showQuestion":false,
-      "value":1000,
-      "clicked":false,
-      "category_id":1
+      "id": 25,
+      "questionText": "Don Quixote",
+      "answerText": "Miguel de Cervantes",
+      "showQuestion": false,
+      "value": 1000,
+      "clicked": false,
+      "category_id": 1
     },
     {
-      "id":26,
-      "questionText":"This is what they call a diaper in England",
-      "answerText":"Nappy",
-      "showQuestion":false,
-      "value":1000,
-      "clicked":false,
-      "category_id":2
+      "id": 26,
+      "questionText": "Gone with the Wind",
+      "answerText": "1930 (1939)",
+      "showQuestion": false,
+      "value": 1000,
+      "clicked": false,
+      "category_id": 2
     },
     {
-      "id":27,
-      "questionText":"",
-      "answerText":"Prunes",
-      "showQuestion":false,
-      "value":1000,
-      "clicked":false,
-      "src":"./images/1000.jpeg",
-      "category_id":3
+      "id": 27,
+      "questionText": "It",
+      "answerText": "Pennywise",
+      "showQuestion": false,
+      "value": 1000,
+      "clicked": false,
+      "category_id": 3
     },
     {
-      "id":28,
-      "questionText":"This is the first stuffed animal Pam bought for Grandbaby (2 possible answers)",
-      "answerText":"Cheetah & Lion",
-      "showQuestion":false,
-      "value":1000,
-      "clicked":false,
-      "category_id":4
+      "id": 28,
+      "questionText": "What was the first fast food chain in China",
+      "answerText": "KFC",
+      "showQuestion": false,
+      "value": 1000,
+      "clicked": false,
+      "category_id": 4
     },
     {
-      "id":29,
-      "questionText":"This is where Mama coaches high school tennis",
-      "answerText":"North High School",
-      "showQuestion":false,
-      "value":1000,
-      "clicked":false,
-      "category_id":4
+      "id": 29,
+      "questionText": "This country recorded the largest ever earthquake at magnitude 9.5 in 1960",
+      "answerText": "Chile",
+      "showQuestion": false,
+      "value": 1000,
+      "clicked": false,
+      "category_id": 5
     },
     {
-      "id":30,
-      "questionText":"This person knows more tennis gossip and people than anyone else in this room or likely the entire USTA",
-      "answerText":"Kris Paul",
-      "showQuestion":false,
-      "value":1000,
-      "clicked":false,
-      "category_id":6
+      "id": 30,
+      "questionText": "Bhutan is on average the highest country in the world. This country is the flattest",
+      "answerText": "Bolivia",
+      "showQuestion": false,
+      "value": 1000,
+      "clicked": false,
+      "category_id": 6
     }
   ]
 }
