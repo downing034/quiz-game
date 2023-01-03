@@ -1,12 +1,15 @@
 import { Box } from '@mui/material';
 import { Category as CategoryType } from 'models/types';
 import CategoryHeader from './CategoryHeader';
+// import useCategoryQuestions from './useCategoryQuestions';
 
 export interface CategoryProps {
 	category: CategoryType;
 };
 
 const Category = ({ category }: CategoryProps) => {
+	// const categoryQuestions = useCategoryQuestions(category.id)
+
 	return (
 		<Box
 			width="100%"

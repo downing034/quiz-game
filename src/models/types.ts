@@ -5,6 +5,7 @@ export interface Question {
 	showQuestion: boolean;
 	value: number;
 	clicked: boolean;
+	categoryId: number;
 };
 
 export type Questions = Question[];

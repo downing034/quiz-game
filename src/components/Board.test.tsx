@@ -1,6 +1,7 @@
 import { render, waitFor } from '@testing-library/react';
-import { QuestionsContext } from 'contexts';
-import { questionOne, questionTwo, questions } from 'mocks/question';
+import { MainContext } from 'contexts';
+import { questions } from 'mocks/question';
+import { categories } from 'mocks/category';
 import { server } from 'mocks/server';
 
 import Board from './Board';
@@ -9,9 +10,9 @@ describe('board', () => {
 	beforeAll(() => server.listen())
 	test('renders loader ', async () => {
 	  const wrapper = render(
-	  	<QuestionsContext.Provider value={questions}>
+	  	<MainContext.Provider value={{questions, categories}}>
 	  		<Board />
-	  	</QuestionsContext.Provider>
+	  	</MainContext.Provider>
 	  );
 
 	  const loadingText = wrapper.getByText('Loading ...');
@@ -20,9 +21,9 @@ describe('board', () => {
 
 	test('renders categories ', async () => {
 	  const wrapper = render(
-	  	<QuestionsContext.Provider value={questions}>
+	  	<MainContext.Provider value={{questions, categories}}>
 	  		<Board />
-	  	</QuestionsContext.Provider>
+	  	</MainContext.Provider>
 	  );
 
 	  await waitFor(() => expect(wrapper.getByText('Authors')).toBeVisible());

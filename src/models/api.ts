@@ -39,7 +39,8 @@ export const getQuestions = async (): Promise<Questions> => {
 					answerText: parseString(question.answerText),
 					showQuestion: question.showQuestion,
 					value: parseNumber(question.value),
-					clicked: question.clicked
+					clicked: question.clicked,
+					categoryId: parseNumber(question.category_id),
 				})
 			}
 		};
@@ -61,11 +62,11 @@ export const getCategories = async (): Promise<Categories> => {
 			for (const category of categoriesResponse) {
 				const questionIds: number[] = [];
 
-				for (const questionId of questionIds) {
+				for (const questionId of category.question_ids) {
 					questionIds.push(parseNumber(questionId));
 				}
 
-				category.push({
+				categories.push({
 					id: parseNumber(category.id),
 					name: parseString(category.name),
 					questionIds

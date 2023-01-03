@@ -8,8 +8,7 @@
         7,
         13,
         19,
-        25,
-        31
+        25
       ]
     },
     {
@@ -20,8 +19,7 @@
         8,
         14,
         20,
-        26,
-        32
+        26
       ]
     },
     {
@@ -32,8 +30,7 @@
         9,
         15,
         21,
-        27,
-        33
+        27
       ]
     },
     {
@@ -44,8 +41,7 @@
         10,
         16,
         22,
-        28,
-        34
+        28
       ]
     },
     {
@@ -56,8 +52,7 @@
         11,
         17,
         23,
-        29,
-        35
+        29
       ]
     },
     {
@@ -68,8 +63,7 @@
         12,
         18,
         24,
-        30,
-        36
+        30
       ]
     }
   ],
@@ -80,7 +74,8 @@
       "answerText":"Harold & the Purple Crayon",
       "showQuestion":false,
       "value":200,
-      "clicked":false
+      "clicked":false,
+      "category_id":1
     },
     {
       "id":2,
@@ -88,7 +83,8 @@
       "answerText":"Cloth Diaper",
       "showQuestion":false,
       "value":200,
-      "clicked":false
+      "clicked":false,
+      "category_id":2
     },
     {
       "id":3,
@@ -97,7 +93,8 @@
       "showQuestion":false,
       "value":200,
       "clicked":false,
-      "src":"./images/200.jpeg"
+      "src":"./images/200.jpeg",
+      "category_id":3
     },
     {
       "id":4,
@@ -105,7 +102,8 @@
       "answerText":"Pick him/her up",
       "showQuestion":false,
       "value":200,
-      "clicked":false
+      "clicked":false,
+      "category_id":4
     },
     {
       "id":5,
@@ -113,7 +111,8 @@
       "answerText":"left",
       "showQuestion":false,
       "value":200,
-      "clicked":false
+      "clicked":false,
+      "category_id":5
     },
     {
       "id":6,
@@ -121,7 +120,8 @@
       "answerText":"Kathy Vogel",
       "showQuestion":false,
       "value":200,
-      "clicked":false
+      "clicked":false,
+      "category_id":6
     },
     {
       "id":7,
@@ -129,7 +129,8 @@
       "answerText":"Eric Carle",
       "showQuestion":false,
       "value":400,
-      "clicked":false
+      "clicked":false,
+      "category_id":1
     },
     {
       "id":8,
@@ -137,7 +138,8 @@
       "answerText":"Swaddlers",
       "showQuestion":false,
       "value":400,
-      "clicked":false
+      "clicked":false,
+      "category_id":2
     },
     {
       "id":9,
@@ -146,7 +148,8 @@
       "showQuestion":false,
       "value":400,
       "clicked":false,
-      "src":"./images/400.jpeg"
+      "src":"./images/400.jpeg",
+      "category_id":3
     },
     {
       "id":10,
@@ -154,7 +157,8 @@
       "answerText":"August 10th, 2021",
       "showQuestion":false,
       "value":400,
-      "clicked":false
+      "clicked":false,
+      "category_id":4
     },
     {
       "id":11,
@@ -162,7 +166,8 @@
       "answerText":"Scorpio",
       "showQuestion":false,
       "value":400,
-      "clicked":false
+      "clicked":false,
+      "category_id":5
     },
     {
       "id":12,
@@ -170,7 +175,8 @@
       "answerText":"Marti Estey (usually at least 50% of the check!)",
       "showQuestion":false,
       "value":400,
-      "clicked":false
+      "clicked":false,
+      "category_id":6
     },
     {
       "id":13,
@@ -178,7 +184,8 @@
       "answerText":"Charlotte’s Web",
       "showQuestion":false,
       "value":600,
-      "clicked":false
+      "clicked":false,
+      "category_id":1
     },
     {
       "id":14,
@@ -186,7 +193,8 @@
       "answerText":"Rash Cream",
       "showQuestion":false,
       "value":600,
-      "clicked":false
+      "clicked":false,
+      "category_id":2
     },
     {
       "id":15,
@@ -195,7 +203,8 @@
       "showQuestion":false,
       "value":600,
       "clicked":false,
-      "src":"./images/600.jpeg"
+      "src":"./images/600.jpeg",
+      "category_id":3
     },
     {
       "id":16,
@@ -203,7 +212,8 @@
       "answerText":"Animals",
       "showQuestion":false,
       "value":600,
-      "clicked":false
+      "clicked":false,
+      "category_id":4
     },
     {
       "id":17,
@@ -211,7 +221,8 @@
       "answerText":"Philadelphia",
       "showQuestion":false,
       "value":600,
-      "clicked":false
+      "clicked":false,
+      "category_id":5
     },
     {
       "id":18,
@@ -219,7 +230,8 @@
       "answerText":"Peg Unger",
       "showQuestion":false,
       "value":600,
-      "clicked":false
+      "clicked":false,
+      "category_id":6
     },
     {
       "id":19,
@@ -227,7 +239,8 @@
       "answerText":"Winnie the Pooh",
       "showQuestion":false,
       "value":800,
-      "clicked":false
+      "clicked":false,
+      "category_id":1
     },
     {
       "id":20,
@@ -235,7 +248,8 @@
       "answerText":"Huggies",
       "showQuestion":false,
       "value":800,
-      "clicked":false
+      "clicked":false,
+      "category_id":2
     },
     {
       "id":21,
@@ -244,7 +258,8 @@
       "showQuestion":false,
       "value":800,
       "clicked":false,
-      "src":"./images/800.jpeg"
+      "src":"./images/800.jpeg",
+      "category_id":3
     },
     {
       "id":22,
@@ -252,7 +267,8 @@
       "answerText":"Jumped up & down; screamed",
       "showQuestion":false,
       "value":800,
-      "clicked":false
+      "clicked":false,
+      "category_id":4
     },
     {
       "id":23,
@@ -260,7 +276,8 @@
       "answerText":"Nick",
       "showQuestion":false,
       "value":800,
-      "clicked":false
+      "clicked":false,
+      "category_id":5
     },
     {
       "id":24,
@@ -268,7 +285,8 @@
       "answerText":"Molly Hemes",
       "showQuestion":false,
       "value":800,
-      "clicked":false
+      "clicked":false,
+      "category_id":6
     },
     {
       "id":25,
@@ -276,7 +294,8 @@
       "answerText":"Elephants",
       "showQuestion":false,
       "value":1000,
-      "clicked":false
+      "clicked":false,
+      "category_id":1
     },
     {
       "id":26,
@@ -284,7 +303,8 @@
       "answerText":"Nappy",
       "showQuestion":false,
       "value":1000,
-      "clicked":false
+      "clicked":false,
+      "category_id":2
     },
     {
       "id":27,
@@ -293,7 +313,8 @@
       "showQuestion":false,
       "value":1000,
       "clicked":false,
-      "src":"./images/1000.jpeg"
+      "src":"./images/1000.jpeg",
+      "category_id":3
     },
     {
       "id":28,
@@ -301,7 +322,8 @@
       "answerText":"Cheetah & Lion",
       "showQuestion":false,
       "value":1000,
-      "clicked":false
+      "clicked":false,
+      "category_id":4
     },
     {
       "id":29,
@@ -309,7 +331,8 @@
       "answerText":"North High School",
       "showQuestion":false,
       "value":1000,
-      "clicked":false
+      "clicked":false,
+      "category_id":4
     },
     {
       "id":30,
@@ -317,7 +340,8 @@
       "answerText":"Kris Paul",
       "showQuestion":false,
       "value":1000,
-      "clicked":false
+      "clicked":false,
+      "category_id":6
     }
   ]
 }
