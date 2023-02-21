@@ -7,10 +7,12 @@ import { server } from 'mocks/server';
 import Board from './Board';
 
 describe('board', () => {
+	const setQuestions = jest.fn();
+
 	beforeAll(() => server.listen())
 	test('renders loader ', async () => {
 	  const wrapper = render(
-	  	<MainContext.Provider value={{questions, categories}}>
+	  	<MainContext.Provider value={{questions, setQuestions, categories}}>
 	  		<Board />
 	  	</MainContext.Provider>
 	  );
@@ -21,7 +23,7 @@ describe('board', () => {
 
 	test('renders categories ', async () => {
 	  const wrapper = render(
-	  	<MainContext.Provider value={{questions, categories}}>
+	  	<MainContext.Provider value={{questions, setQuestions, categories}}>
 	  		<Board />
 	  	</MainContext.Provider>
 	  );
