@@ -1,6 +1,6 @@
 import { Box } from '@mui/material';
 import { Link } from 'react-router-dom';
-import 'styles/app.css';
+import 'styles/shared.css';
 import 'styles/header.css';
 
 const Header = () => {

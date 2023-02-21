@@ -7,7 +7,7 @@ import Header from 'components/Header';
 import Question from 'components/Question';
 import NotFoundPage from 'components/NotFoundPage';
 
-import 'styles/app.css';
+import 'styles/shared.css';
 
 const App = () => {
   return (
