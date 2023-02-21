@@ -1,9 +1,9 @@
 import { useContext } from 'react';
-import { Question, Questions } from 'models/types';
+import { Question, Questions, MainContextType } from 'models/types';
 import { MainContext } from 'contexts';
 
 const useCategoryQuestions = (categoryId: number) => {
-	const data = useContext(MainContext);
+	const data: MainContextType = useContext(MainContext);
 
 	const allQuestions: Questions = data.questions;
 

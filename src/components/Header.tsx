@@ -1,4 +1,6 @@
 import { Box } from '@mui/material';
+import { Link } from 'react-router-dom';
+import 'styles/app.css';
 import 'styles/header.css';
 
 const Header = () => {
@@ -10,7 +12,9 @@ const Header = () => {
 			justifyContent="center"
 			alignItems="center"
 		>
-			<h1 className="header">Quiz Game!</h1>
+			<Link to="/" className="link">
+				<h1 className="header">Quiz Game!</h1>
+			</Link>
 		</Box>
 	)
 };

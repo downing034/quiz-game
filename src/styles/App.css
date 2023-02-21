@@ -1,3 +1,8 @@
 .app {
   background: #00003a;
+  height: 1000px;
+}
+
+.link {
+  text-decoration: none;
 }

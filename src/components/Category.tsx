@@ -1,14 +1,15 @@
-import { Box } from '@mui/material';
+import { Box, useTheme } from '@mui/material';
 import { Category as CategoryType } from 'models/types';
 import CategoryHeader from './CategoryHeader';
-// import useCategoryQuestions from './useCategoryQuestions';
+import QuestionValue from './QuestionValue';
+import { QUESTION_VALUES } from 'config/constants';
 
 export interface CategoryProps {
 	category: CategoryType;
 };
 
 const Category = ({ category }: CategoryProps) => {
-	// const categoryQuestions = useCategoryQuestions(category.id)
+	const theme = useTheme();
 
 	return (
 		<Box
@@ -17,9 +18,18 @@ const Category = ({ category }: CategoryProps) => {
 			flexDirection="column"
 			justifyContent="center"
 			alignItems="center"
-			margin={0.5}
+			margin={theme.spacing(0.5)}
 		>
 			<CategoryHeader name={category.name} />
+
+			{QUESTION_VALUES.map((qValue) => (
+        <QuestionValue
+        	key={qValue}
+        	categoryId={category.id}
+        	questionValue={qValue}
+        />
+      ))}
+
 		</Box>
 	);
 };

@@ -80,3 +80,27 @@ export const getCategories = async (): Promise<Categories> => {
 		return e.message;
 	}
 };
+
+export const newEmptyQuestion = () => {
+	return (
+		{
+			id: Math.random(),
+			questionText: '',
+			answerText: '',
+			showQuestion: false,
+			value: Math.random(),
+			clicked: false,
+			categoryId: Math.random()
+		}
+	)
+};
+
+export const newEmptyCategory = () => {
+	return (
+	{
+		id: Math.random(),
+		name: '',
+		questionIds: []
+	}
+	)
+}

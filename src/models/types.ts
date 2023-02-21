@@ -1,3 +1,5 @@
+import { Dispatch } from 'react';
+
 export interface Question {
 	id: number;
 	questionText: string;
@@ -21,4 +23,10 @@ export type Categories = Category[];
 export interface ApiDataResponse {
 	questions: Questions;
 	categories: Categories;
-}
+};
+
+export interface MainContextType {
+	questions: Questions;
+	setQuestions: Dispatch<React.SetStateAction<Questions>>
+	categories: Categories;
+};
