@@ -1,7 +1,7 @@
 import { Box, useTheme } from '@mui/material';
 import { Link } from 'react-router-dom';
 import useQuestion from './useQuestion';
-import "styles/app.css";
+import "styles/shared.css";
 import "styles/question.css";
 
 export interface QuestionValueProps {
