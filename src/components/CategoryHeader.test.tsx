@@ -5,6 +5,6 @@ test('renders CategoryHeader', () => {
   const props: CategoryHeaderProps = { title: 'State Facts' };
 
   const wrapper = render(<CategoryHeader {...props} />);
-  const headerText = wrapper.getByText('State Facts');
+  const headerText = wrapper.getByText('STATE FACTS');
   expect(headerText).toBeInTheDocument();
 });

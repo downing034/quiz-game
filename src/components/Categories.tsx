@@ -10,7 +10,6 @@ const Categories = () => {
 
 	const data: MainContextType = useContext(MainContext);
 	const categories: CategoriesType = data.categories;
-
 	return (
 		<>
 		  { loading && <Loader /> }

@@ -35,7 +35,6 @@ export const getCategoriesAndClues = async (): Promise<CategoryAndClues> => {
     // mapping the categeory is strictly for formatting purposes to basically
     // remove snake case in favor of camelCase. Opting not to bring in a lib
     // like lodash since this is simple enough and that would be bloated
-
     const categories = categoriesResponse.map((apiCategory) => mapApiCategory(apiCategory));
     const clues: Clues = categories.map((cat) => cat.clues).flat();
     return { categories, clues };

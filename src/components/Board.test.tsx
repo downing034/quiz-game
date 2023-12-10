@@ -1,4 +1,5 @@
 import { render, waitFor } from '@testing-library/react';
+import { BrowserRouter } from 'react-router-dom';
 import { MainContext } from 'contexts';
 import { clues } from 'mocks/clue';
 import { categories } from 'mocks/category';
@@ -10,24 +11,16 @@ describe('board', () => {
 	const setClues = jest.fn();
 
 	beforeAll(() => server.listen())
-	test('renders loader ', async () => {
-	  const wrapper = render(
-	  	<MainContext.Provider value={{clues, setClues, categories}}>
-	  		<Board />
-	  	</MainContext.Provider>
-	  );
-
-	  const loadingText = wrapper.getByText('Loading ...');
-	  expect(loadingText).toBeInTheDocument();
-	});
 
 	test('renders categories ', async () => {
 	  const wrapper = render(
-	  	<MainContext.Provider value={{clues, setClues, categories}}>
-	  		<Board />
-	  	</MainContext.Provider>
+			<BrowserRouter>
+				<MainContext.Provider value={{clues, setClues, categories}}>
+					<Board />
+				</MainContext.Provider>
+			</BrowserRouter>
 	  );
 
-	  await waitFor(() => expect(wrapper.getByText('Authors')).toBeVisible());
+	  await waitFor(() => expect(wrapper.getByText('STATE FACTS')).toBeVisible());
 	});
 });

@@ -27,12 +27,16 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "check": "tsc -p tsconfig.json",
     "generate-api-types": "quicktype --no-enums --runtime-typecheck-ignore-unknown-properties -o src/models/apiTyping/types.ts src/mocks/data"
   },
   "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
+    ],
+    "ignorePatterns": [
+      "src/models/apiTyping/types.ts"
     ]
   },
   "browserslist": {
