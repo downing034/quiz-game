@@ -1,0 +1,2987 @@
+{
+  "id": 2,
+  "title": "pop music",
+  "clues_count": 298,
+  "clues": [
+    {
+      "id": 1,
+      "answer": "Sherry",
+      "question": "In '62, the Four Seasons asked this \"Baby\" \"Can you come out tonight?\"",
+      "value": 100,
+      "airdate": "1985-05-30T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7599,
+      "invalid_count": null
+    },
+    {
+      "id": 6,
+      "answer": "<i>Rumours</i>",
+      "question": "Fleetwood Mac album, or chatter about Mick going bankrupt & Lindsey being lonely",
+      "value": 200,
+      "airdate": "1985-05-30T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7599,
+      "invalid_count": null
+    },
+    {
+      "id": 10,
+      "answer": "Johnny Mathis",
+      "question": "This \"Wonderful, Wonderful\" singer is said to have been 1st Black singer to reach millionaire status",
+      "value": 300,
+      "airdate": "1985-05-30T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7599,
+      "invalid_count": null
+    },
+    {
+      "id": 15,
+      "answer": "Hall & Oates",
+      "question": "Contrary to their '84 hit, this duo is definitely not \"Out of Touch\"",
+      "value": 400,
+      "airdate": "1985-05-30T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7599,
+      "invalid_count": null
+    },
+    {
+      "id": 20,
+      "answer": "\"Fire\"",
+      "question": "Written by Bruce Springsteen, this song was a \"hot\" number for the Pointer Sisters in '79",
+      "value": 500,
+      "airdate": "1985-05-30T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7599,
+      "invalid_count": null
+    },
+    {
+      "id": 4163,
+      "answer": "Madonna",
+      "question": "In \"Desperately Seeking Susan\", she was \"Into the Groove\"",
+      "value": 100,
+      "airdate": "1985-09-25T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7591,
+      "invalid_count": null
+    },
+    {
+      "id": 4169,
+      "answer": "Barry Manilow",
+      "question": "He went from writing McDonald's jingles to breaking record in 1983 for fastest sell-out",
+      "value": 200,
+      "airdate": "1985-09-25T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7591,
+      "invalid_count": null
+    },
+    {
+      "id": 4175,
+      "answer": "\"You\\'re A Hard Habit To Break\"",
+      "question": "In 1985, this Chicago hit proved \"addictive\"",
+      "value": 300,
+      "airdate": "1985-09-25T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7591,
+      "invalid_count": null
+    },
+    {
+      "id": 4180,
+      "answer": "Anne Murray",
+      "question": "She was 1st Canadian female to earn a gold record in the U.S.",
+      "value": 400,
+      "airdate": "1985-09-25T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7591,
+      "invalid_count": null
+    },
+    {
+      "id": 4185,
+      "answer": "Melissa Manchester",
+      "question": "She recorded, then performed at 1980 Oscars 2 themes up for Best Song, \"Ice Castles\" & \"The Promise\"",
+      "value": 500,
+      "airdate": "1985-09-25T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7591,
+      "invalid_count": null
+    },
+    {
+      "id": 8368,
+      "answer": "boogie",
+      "question": "In '70s song titles this word preceded \"Down\", \"Wonderland\", & \"Oogie, Oogie\"",
+      "value": 100,
+      "airdate": "1986-09-15T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6073,
+      "invalid_count": null
+    },
+    {
+      "id": 8374,
+      "answer": "Sheila",
+      "question": "Drum-pounding Prince protege, her \"E.\" stands for Escovedo",
+      "value": 200,
+      "airdate": "1986-09-15T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6073,
+      "invalid_count": null
+    },
+    {
+      "id": 8380,
+      "answer": "Adam Ant",
+      "question": "He said he changed his name because \"Stuart & the Ants\" didn't sound right",
+      "value": 300,
+      "airdate": "1986-09-15T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6073,
+      "invalid_count": null
+    },
+    {
+      "id": 13644,
+      "answer": "Kool",
+      "question": "Nickname of Robert Bell, who along with \"the Gang\", had hits like \"Jungle Boogie\" & \"Celebration\"",
+      "value": 100,
+      "airdate": "1989-06-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5996,
+      "invalid_count": null
+    },
+    {
+      "id": 13650,
+      "answer": "Paul Simon",
+      "question": "His \"Graceland\" album won a Grammy in 1987; his \"Graceland\" single won one the following year",
+      "value": 200,
+      "airdate": "1989-06-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5996,
+      "invalid_count": null
+    },
+    {
+      "id": 13656,
+      "answer": "\"Proud Mary\"",
+      "question": "According to this Credence Clearwater Revivial song, \"People on the river are happy to give\"",
+      "value": 300,
+      "airdate": "1989-06-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5996,
+      "invalid_count": null
+    },
+    {
+      "id": 13661,
+      "answer": "(1 of) Willie Nelson (or Diana Ross)",
+      "question": "1 of 2 singers with whom Julio Iglesias had Top 20 singles in 1984",
+      "value": null,
+      "airdate": "1989-06-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5996,
+      "invalid_count": null
+    },
+    {
+      "id": 13666,
+      "answer": "Men at Work",
+      "question": "This group's 1982 debut album \"Business as Usual\" & debut single \"Who Can It Be Now?\" both reached No. 1",
+      "value": 500,
+      "airdate": "1989-06-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5996,
+      "invalid_count": null
+    },
+    {
+      "id": 14537,
+      "answer": "fine",
+      "question": "In 1964 the Beatles exclaimed, \"She's in love with me and I feel\" this",
+      "value": 100,
+      "airdate": "1989-03-31T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5675,
+      "invalid_count": null
+    },
+    {
+      "id": 14543,
+      "answer": "the earth move",
+      "question": "In her 1971 hit, Carole King sang that she felt this under her feet",
+      "value": 200,
+      "airdate": "1989-03-31T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5675,
+      "invalid_count": null
+    },
+    {
+      "id": 14549,
+      "answer": "makin\\' love",
+      "question": "\"Strollin' in the park, watchin' winter turn to spring...that's the time\" Roberta Flack felt like doin' this",
+      "value": 300,
+      "airdate": "1989-03-31T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5675,
+      "invalid_count": null
+    },
+    {
+      "id": 14554,
+      "answer": "\"Singing the Blues\"",
+      "question": "In his biggest hit, Guy Mitchell sang he \"never felt more like\" doing this, the song's title",
+      "value": 400,
+      "airdate": "1989-03-31T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5675,
+      "invalid_count": null
+    },
+    {
+      "id": 14559,
+      "answer": "\"Feelings\"",
+      "question": "In 1975 Morris Albert \"wo wo wo\"ed his way onto the pop charts with this hit",
+      "value": 500,
+      "airdate": "1989-03-31T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5675,
+      "invalid_count": null
+    },
+    {
+      "id": 14819,
+      "answer": "Genesis",
+      "question": "After singing lead for 9 years, Peter Gabriel left this band in '75 & Phil Collins took over",
+      "value": 100,
+      "airdate": "1989-03-03T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5601,
+      "invalid_count": null
+    },
+    {
+      "id": 14825,
+      "answer": "Casey Kasem",
+      "question": "In 1988 Shadoe Stevens replaced him as host of American Top 40",
+      "value": 200,
+      "airdate": "1989-03-03T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5601,
+      "invalid_count": null
+    },
+    {
+      "id": 14831,
+      "answer": "gravy",
+      "question": "In her big hit \"Mashed Potato Time\", Dee Dee Sharp asked for this on her mashed potatoes",
+      "value": 300,
+      "airdate": "1989-03-03T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5601,
+      "invalid_count": null
+    },
+    {
+      "id": 14837,
+      "answer": "Lionel Richie",
+      "question": "If he were \"Stuck on You\", he might say \"Hello\", \"You Are\" \"Truly\" \"My Love\" -- \"All Night Long\"",
+      "value": 400,
+      "airdate": "1989-03-03T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5601,
+      "invalid_count": null
+    },
+    {
+      "id": 14843,
+      "answer": "Susie (or Cathy)",
+      "question": "1 of 2 girls in the title of No. 1 hits by the Everly Brothers",
+      "value": 500,
+      "airdate": "1989-03-03T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5601,
+      "invalid_count": null
+    },
+    {
+      "id": 18235,
+      "answer": "John Oates",
+      "question": "Completes the title of the 1975 album that includes \"Sara Smile\", \"Daryl Hall &...\"",
+      "value": 100,
+      "airdate": "1990-06-20T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5019,
+      "invalid_count": null
+    },
+    {
+      "id": 18241,
+      "answer": "Olivia Newton-John",
+      "question": "Her 1989 album \"Warm and Tender\" is filled with lullabies & ballads for her little daughter, Chloe",
+      "value": 200,
+      "airdate": "1990-06-20T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5019,
+      "invalid_count": null
+    },
+    {
+      "id": 18247,
+      "answer": "John Cougar (Mellencamp)",
+      "question": "He didn't do too badly in 1982 with \"Hurts So Good\"",
+      "value": 300,
+      "airdate": "1990-06-20T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5019,
+      "invalid_count": null
+    },
+    {
+      "id": 18253,
+      "answer": "John Denver",
+      "question": "No. 1 hits he wrote include Peter, Paul & Mary's \"Leaving on a Jet Plane\" & his own \"Annie's Song\"",
+      "value": 400,
+      "airdate": "1990-06-20T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5019,
+      "invalid_count": null
+    },
+    {
+      "id": 18259,
+      "answer": "Dr. John",
+      "question": "Born Malcolm Rebennack, in 1973 he had a big hit with \"Right Time, Wrong Place\"",
+      "value": 500,
+      "airdate": "1990-06-20T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5019,
+      "invalid_count": null
+    },
+    {
+      "id": 18826,
+      "answer": "The Go-Go\\'s",
+      "question": "This group's \"Beauty & the Beat\" album was the first by a female rock band to reach No. 1",
+      "value": 100,
+      "airdate": "1990-05-10T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1680,
+      "invalid_count": null
+    },
+    {
+      "id": 18832,
+      "answer": "Mick Jagger",
+      "question": "\"Dancing in the Street\" from the Live-Aid concert paired David Bowie with this rock legend",
+      "value": 200,
+      "airdate": "1990-05-10T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1680,
+      "invalid_count": null
+    },
+    {
+      "id": 18838,
+      "answer": "\"Weird Al\" Yankovic",
+      "question": "In 1984 this comic parodied Michael Jackson's \"Beat It\" with record & video versions of \"Eat It\"",
+      "value": 300,
+      "airdate": "1990-05-10T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1680,
+      "invalid_count": null
+    },
+    {
+      "id": 18844,
+      "answer": "Sammy Hagar",
+      "question": "When David Lee Roth left Van Halen, he jumped in",
+      "value": 400,
+      "airdate": "1990-05-10T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1680,
+      "invalid_count": null
+    },
+    {
+      "id": 18850,
+      "answer": "Dire Straits",
+      "question": "These \"Sultans of Swing\" did \"The Walk of Life\" in 1985",
+      "value": 500,
+      "airdate": "1990-05-10T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1680,
+      "invalid_count": null
+    },
+    {
+      "id": 20317,
+      "answer": "Fine Young Cannibals",
+      "question": "FYI, for your information, FYC is this group that gave us the album \"The Raw And The Cooked\"",
+      "value": 100,
+      "airdate": "1990-02-06T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 481,
+      "invalid_count": null
+    },
+    {
+      "id": 20323,
+      "answer": "Billy Joel",
+      "question": "\"Wheel of Fortune\" is mentioned in his 1989 hit \"We Didn't Start The Fire\"",
+      "value": 200,
+      "airdate": "1990-02-06T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 481,
+      "invalid_count": null
+    },
+    {
+      "id": 20329,
+      "answer": "Debbie Gibson",
+      "question": "Parts of her \"Electric Youth\" video were filmed on the stage next to ours",
+      "value": 300,
+      "airdate": "1990-02-06T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 481,
+      "invalid_count": null
+    },
+    {
+      "id": 20335,
+      "answer": "Milli Vanilli",
+      "question": "In 1963 Eydie Gorme sang \"Blame It On The Bossa Nova\"; in 1989 this group sang the following:\"Blame it on the rain...\"",
+      "value": null,
+      "airdate": "1990-02-06T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 481,
+      "invalid_count": null
+    },
+    {
+      "id": 20341,
+      "answer": "24 hours a day/7 days a week",
+      "question": "It's what the numbers in the title of Dino's hit \"24/7\" refer to",
+      "value": 500,
+      "airdate": "1990-02-06T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 481,
+      "invalid_count": null
+    },
+    {
+      "id": 26521,
+      "answer": "Frank Sinatra",
+      "question": "In 1966, he had 4 Top 40 hits including \"It Was A Very Good Year\"",
+      "value": 100,
+      "airdate": "1990-09-10T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7476,
+      "invalid_count": null
+    },
+    {
+      "id": 26527,
+      "answer": "Janis Joplin",
+      "question": "After Big Brother and the Holding Company she sang with the Full Tilt Boogie Band",
+      "value": 200,
+      "airdate": "1990-09-10T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7476,
+      "invalid_count": null
+    },
+    {
+      "id": 26533,
+      "answer": "Jim Croce",
+      "question": "Heard here, this singer's last No. 1 single was released posthumously in 1973:\"If I could save time in a bottle...\"",
+      "value": null,
+      "airdate": "1990-09-10T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7476,
+      "invalid_count": null
+    },
+    {
+      "id": 26539,
+      "answer": "Harry Belafonte",
+      "question": "Velvety-voiced singer who starred with Dorothy Dandridge in the 1954 film \"Carmen Jones\"",
+      "value": 400,
+      "airdate": "1990-09-10T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7476,
+      "invalid_count": null
+    },
+    {
+      "id": 26544,
+      "answer": "\"Band Of Gold\"",
+      "question": "Freda Payne sang with Duke Ellington in the 1960s & in 1970 had her 1st hit with this song about a wedding ring",
+      "value": 500,
+      "airdate": "1990-09-10T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7476,
+      "invalid_count": null
+    },
+    {
+      "id": 28038,
+      "answer": "Bob Dylan",
+      "question": "Folk songs written by this performer include \"Times They are A-Changin'\" & \"Mr. Tambourine Man\"",
+      "value": 100,
+      "airdate": "1992-03-26T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6108,
+      "invalid_count": null
+    },
+    {
+      "id": 28044,
+      "answer": "\"Charlie Brown\"",
+      "question": "In this song, \"He's gonna get caught, just you wait & see, 'why is everybody always pickin' on me?'\"",
+      "value": 200,
+      "airdate": "1992-03-26T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6108,
+      "invalid_count": null
+    },
+    {
+      "id": 28050,
+      "answer": "Graham Nash",
+      "question": "Of Crosby, Stills, Nash or Young, the one born  in England",
+      "value": 300,
+      "airdate": "1992-03-26T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6108,
+      "invalid_count": null
+    },
+    {
+      "id": 28056,
+      "answer": "\"Queen of Hearts\"",
+      "question": "Juice Newton peaked at No. 2 with this song named after a playing card",
+      "value": 400,
+      "airdate": "1992-03-26T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6108,
+      "invalid_count": null
+    },
+    {
+      "id": 28062,
+      "answer": "\"Sukiyaki\"",
+      "question": "This record by Kyu Sakamoto is the only Japanese language song to reach No. 1 in America",
+      "value": 500,
+      "airdate": "1992-03-26T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6108,
+      "invalid_count": null
+    },
+    {
+      "id": 31992,
+      "answer": "<i>Dick Tracy</i>",
+      "question": "Madonna's hits \"Vogue\" & \"Hanky Panky\" were from the CD inspired by this 1990 film",
+      "value": 500,
+      "airdate": "1993-02-22T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 4487,
+      "invalid_count": null
+    },
+    {
+      "id": 32844,
+      "answer": "Ringo Starr",
+      "question": "\"Photograph\" and \"You're Sixteen\" made him the only ex-Beatle to have two consecutive songs reach #1 in the U.S.",
+      "value": 100,
+      "airdate": "1992-11-19T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 125,
+      "invalid_count": null
+    },
+    {
+      "id": 31968,
+      "answer": "(Bruce) Springsteen",
+      "question": "This singer's \"Born in the U.S.A.\" album spawned 7 Top 10 singles",
+      "value": 100,
+      "airdate": "1993-02-22T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 4487,
+      "invalid_count": null
+    },
+    {
+      "id": 31974,
+      "answer": "Vanilla Ice",
+      "question": "This rapper topped the charts in 1990 with \"Ice Ice Baby\"",
+      "value": 200,
+      "airdate": "1993-02-22T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 4487,
+      "invalid_count": null
+    },
+    {
+      "id": 31980,
+      "answer": "\"Unforgettable\"",
+      "question": "It's the title of Natalie Cole's 1992 Grammy-winning album & song of the year",
+      "value": 300,
+      "airdate": "1993-02-22T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 4487,
+      "invalid_count": null
+    },
+    {
+      "id": 31986,
+      "answer": "Prince",
+      "question": "(Video Daily Double)Rock star who, in October 1992, released the album whose title is pictured here:",
+      "value": null,
+      "airdate": "1993-02-22T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 4487,
+      "invalid_count": null
+    },
+    {
+      "id": 32850,
+      "answer": "\"As Tears Go By\"",
+      "question": "This Stones hit begins \"It is the evening of the day, I sit and watch the children play\"",
+      "value": 200,
+      "airdate": "1992-11-19T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 125,
+      "invalid_count": null
+    },
+    {
+      "id": 32856,
+      "answer": "\"The Last Dance For Me\"",
+      "question": "\"But don't forget who's takin' you home and in whose arms you're gonna be, so darlin', save\" this",
+      "value": 300,
+      "airdate": "1992-11-19T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 125,
+      "invalid_count": null
+    },
+    {
+      "id": 32862,
+      "answer": "Ricky Nelson",
+      "question": "This rock star of the '50s & '60s hit the charts again in the '70s with the Stone Canyon Band",
+      "value": 400,
+      "airdate": "1992-11-19T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 125,
+      "invalid_count": null
+    },
+    {
+      "id": 32868,
+      "answer": "\"Calcutta\"",
+      "question": "This 1961 Lawrence Welk pop hit takes its title from the name of a city in India & features a harpsichord",
+      "value": 500,
+      "airdate": "1992-11-19T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 125,
+      "invalid_count": null
+    },
+    {
+      "id": 38152,
+      "answer": "a Carpenter",
+      "question": "On the CD \"If I Were\" one of these, Sheryl Crow & 4 Non Blondes emulated Karen & Richard",
+      "value": 200,
+      "airdate": "1995-02-06T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6988,
+      "invalid_count": null
+    },
+    {
+      "id": 33258,
+      "answer": "Milli Vanilli",
+      "question": "This duo won 1989's Best New Artist Grammy, but later it was rescinded",
+      "value": 100,
+      "airdate": "1992-10-27T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1777,
+      "invalid_count": null
+    },
+    {
+      "id": 33264,
+      "answer": "Whitney Houston",
+      "question": "Dionne Warwick's \"That's What Friends Are For\" was knocked out of No. 1 by this first cousin's \"How Will I Know?\"",
+      "value": 200,
+      "airdate": "1992-10-27T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1777,
+      "invalid_count": null
+    },
+    {
+      "id": 33270,
+      "answer": "George Michael",
+      "question": "In 1982 he & Andrew Ridgely formed the successful duo Wham!",
+      "value": 300,
+      "airdate": "1992-10-27T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1777,
+      "invalid_count": null
+    },
+    {
+      "id": 33276,
+      "answer": "Olivia Newton-John",
+      "question": "In 1978 John Travolta & this singer teamed for 2 Top 5 hits, \"You're the One that I Want\" & \"Summer Nights\"",
+      "value": 400,
+      "airdate": "1992-10-27T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1777,
+      "invalid_count": null
+    },
+    {
+      "id": 33281,
+      "answer": "Eric Clapton",
+      "question": "Formerly of Cream, this legendary rock guitarist is nicknamed \"Slowhand\"",
+      "value": 500,
+      "airdate": "1992-10-27T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1777,
+      "invalid_count": null
+    },
+    {
+      "id": 34839,
+      "answer": "Janet Jackson",
+      "question": "Her 1993 album \"janet.\" reached No. 1 partly due to the success of the single \"That's The Way Love Goes\"",
+      "value": 100,
+      "airdate": "1994-02-21T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6768,
+      "invalid_count": null
+    },
+    {
+      "id": 34845,
+      "answer": "Australia",
+      "question": "Groups from this country have included INXS & Men at Work",
+      "value": 200,
+      "airdate": "1994-02-21T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6768,
+      "invalid_count": null
+    },
+    {
+      "id": 34851,
+      "answer": "Pearl Jam",
+      "question": "In October 1993 this group's \"Vs.\" album debuted at No. 1 with sales of 950,000 copies",
+      "value": 300,
+      "airdate": "1994-02-21T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6768,
+      "invalid_count": null
+    },
+    {
+      "id": 34857,
+      "answer": "En Vogue",
+      "question": "This \"Funky Divas\" quartet consists of Dawn Robinson, Terry Ellis, Cindy Herron & Maxine Jones",
+      "value": 400,
+      "airdate": "1994-02-21T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6768,
+      "invalid_count": null
+    },
+    {
+      "id": 34863,
+      "answer": "Aerosmith",
+      "question": "This group's \"Janie's Got A Gun\" single won a 1990 Grammy for Best Rock Vocal by a Duo or Group",
+      "value": 500,
+      "airdate": "1994-02-21T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6768,
+      "invalid_count": null
+    },
+    {
+      "id": 35859,
+      "answer": "Roy Orbison",
+      "question": "\"Oh, Pretty Woman\" in 1964 was this artist's last Top 10 hit until \"You Got It\" reached No. 9 in 1989",
+      "value": 100,
+      "airdate": "1993-11-17T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1411,
+      "invalid_count": null
+    },
+    {
+      "id": 35865,
+      "answer": "Chubby Checker",
+      "question": "In 1962 he teamed with Dee Dee Sharp to record yet another dance hit, \"Slow Twistin'\"",
+      "value": 200,
+      "airdate": "1993-11-17T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1411,
+      "invalid_count": null
+    },
+    {
+      "id": 35871,
+      "answer": "\"Happy Together\"",
+      "question": "No. 1 song that begins \"Imagine me and you, I do, I think about you day and night...\"",
+      "value": 300,
+      "airdate": "1993-11-17T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1411,
+      "invalid_count": null
+    },
+    {
+      "id": 35877,
+      "answer": "U2",
+      "question": "This Irish group's \"Rattle and Hum\" album topped both the U.S. & U.K. album charts",
+      "value": 400,
+      "airdate": "1993-11-17T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1411,
+      "invalid_count": null
+    },
+    {
+      "id": 35883,
+      "answer": "Men At Work",
+      "question": "In 1983 this group from down under hit it big with \"Down Under\"",
+      "value": 500,
+      "airdate": "1993-11-17T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1411,
+      "invalid_count": null
+    },
+    {
+      "id": 36444,
+      "answer": "\"The Twist\"",
+      "question": "\"Let's\" do this dance \"again, like we did last summer\"",
+      "value": 100,
+      "airdate": "1993-09-28T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5346,
+      "invalid_count": null
+    },
+    {
+      "id": 36450,
+      "answer": "<i>Purple Rain</i>",
+      "question": "The soundtrack to this 1984 Prince movie was No. 1 for 24 straight weeks",
+      "value": 200,
+      "airdate": "1993-09-28T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5346,
+      "invalid_count": null
+    },
+    {
+      "id": 36456,
+      "answer": "Bette Midler",
+      "question": "She won a Best Female Pop Vocal Grammy for her 1980 song \"The Rose\"",
+      "value": 300,
+      "airdate": "1993-09-28T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5346,
+      "invalid_count": null
+    },
+    {
+      "id": 36462,
+      "answer": "\"Mountain of Love\"",
+      "question": "It begins, \"Standing on a mountain looking down on a city, the way I feel is a doggone pity...\"",
+      "value": 400,
+      "airdate": "1993-09-28T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5346,
+      "invalid_count": null
+    },
+    {
+      "id": 36468,
+      "answer": "Silver Bullets",
+      "question": "Since 1974 it's been Bob Seger's band",
+      "value": 500,
+      "airdate": "1993-09-28T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5346,
+      "invalid_count": null
+    },
+    {
+      "id": 38146,
+      "answer": "R.E.M.",
+      "question": "Georgia quartet whose hits include \"Stand\" & \"Losing My Religion\"",
+      "value": 100,
+      "airdate": "1995-02-06T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6988,
+      "invalid_count": null
+    },
+    {
+      "id": 38716,
+      "answer": "Ringo Starr",
+      "question": "Prior to The Beatles, he was the drummer for Rory Storm and the Hurricanes",
+      "value": 100,
+      "airdate": "1994-11-18T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 303,
+      "invalid_count": null
+    },
+    {
+      "id": 38722,
+      "answer": "Bruce Springsteen",
+      "question": "This American rocker's 1st Top Ten hit in the United Kingdom was \"Dancing in the Dark\" in 1985",
+      "value": 200,
+      "airdate": "1994-11-18T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 303,
+      "invalid_count": null
+    },
+    {
+      "id": 38728,
+      "answer": "\"Purple Rain\"",
+      "question": "Prince's #1 hit, \"Let's Go Crazy\", was from this 1984 film",
+      "value": 300,
+      "airdate": "1994-11-18T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 303,
+      "invalid_count": null
+    },
+    {
+      "id": 38734,
+      "answer": "The Supremes",
+      "question": "In 1967 Cindy Birdsong replaced Florence Ballard in this trio",
+      "value": 400,
+      "airdate": "1994-11-18T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 303,
+      "invalid_count": null
+    },
+    {
+      "id": 38740,
+      "answer": "\"Rocket Man\"",
+      "question": "This Elton John hit is subtitled \"I Think It's Gonna Be A Long, Long Time\"",
+      "value": 500,
+      "airdate": "1994-11-18T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 303,
+      "invalid_count": null
+    },
+    {
+      "id": 38158,
+      "answer": "\"Endless Love\"",
+      "question": "In 1994 Luther Vandross & Mariah Carey remade this Lionel Richie/Diana Ross duet",
+      "value": 300,
+      "airdate": "1995-02-06T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6988,
+      "invalid_count": null
+    },
+    {
+      "id": 38164,
+      "answer": "Nine Inch Nails",
+      "question": "Trent Reznor's alternative band who recorded the album \"The Downward Spiral\"",
+      "value": 400,
+      "airdate": "1995-02-06T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6988,
+      "invalid_count": null
+    },
+    {
+      "id": 38170,
+      "answer": "Melissa Etheridge",
+      "question": "Singer heard here, she's been compared to Bruce Springsteen & Janis Joplin:\"Come to my window /Crawl inside, wait by the light of the Moon /Come to my window /I'll be home soon...\"",
+      "value": null,
+      "airdate": "1995-02-06T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6988,
+      "invalid_count": null
+    },
+    {
+      "id": 38206,
+      "answer": "The Beatles",
+      "question": "This group's debut LP, \"Please Please Me\",  topped the U.K. charts in 1963",
+      "value": 100,
+      "airdate": "1995-01-20T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7177,
+      "invalid_count": null
+    },
+    {
+      "id": 38212,
+      "answer": "rap",
+      "question": "Dr. Dre & Digable Planets won Grammys in 1994 for performances in this music genre",
+      "value": 200,
+      "airdate": "1995-01-20T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7177,
+      "invalid_count": null
+    },
+    {
+      "id": 38218,
+      "answer": "Elvis Presley",
+      "question": "His Top 10 hits in the 1960s include \"Little Sister\" & \"Return To Sender\"",
+      "value": 300,
+      "airdate": "1995-01-20T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7177,
+      "invalid_count": null
+    },
+    {
+      "id": 38224,
+      "answer": "Otis Redding",
+      "question": "In 1968 his \"(Sittin' On) The Dock Of The Bay\" became the first No. 1 posthumous hit by a solo artist",
+      "value": 400,
+      "airdate": "1995-01-20T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7177,
+      "invalid_count": null
+    },
+    {
+      "id": 38230,
+      "answer": "Neil Sedaka",
+      "question": "His 1959 Top 10 hit \"Oh! Carol\" was dedicated to singer-songwriter Carole King",
+      "value": 500,
+      "airdate": "1995-01-20T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7177,
+      "invalid_count": null
+    },
+    {
+      "id": 40514,
+      "answer": "Michael Jackson",
+      "question": "Entertainment Weekly reported the video for his \"Scream\" duet with sister Janet cost $7 million",
+      "value": 100,
+      "airdate": "1996-05-06T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6727,
+      "invalid_count": null
+    },
+    {
+      "id": 40092,
+      "answer": "Elvis Presley",
+      "question": "In 1995 the Leader Federal Bank in Memphis issued a Mastercard featuring 3 images of this performer",
+      "value": 100,
+      "airdate": "1996-05-28T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5549,
+      "invalid_count": null
+    },
+    {
+      "id": 40098,
+      "answer": "The Rolling Stones",
+      "question": "This group got \"Satisfaction\" in 1964 with its first U.S. Top 10 hit, \"Time is on My Side\"",
+      "value": 200,
+      "airdate": "1996-05-28T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5549,
+      "invalid_count": null
+    },
+    {
+      "id": 40104,
+      "answer": "drums",
+      "question": "It's the musical instrument played by Dave Clark of the Dave Clark Five",
+      "value": 300,
+      "airdate": "1996-05-28T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5549,
+      "invalid_count": null
+    },
+    {
+      "id": 40110,
+      "answer": "John Sebastian",
+      "question": "This vocalist with the Lovin' Spoonful wrote the group's hit \"Do You Believe in Magic?\"",
+      "value": 400,
+      "airdate": "1996-05-28T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5549,
+      "invalid_count": null
+    },
+    {
+      "id": 40116,
+      "answer": "Nitty Gritty Dirt Band",
+      "question": "Jackson Browne was once a member of this \"grubby\" group whose hits included \"Mr. Bojangles\"",
+      "value": 500,
+      "airdate": "1996-05-28T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5549,
+      "invalid_count": null
+    },
+    {
+      "id": 40634,
+      "answer": "\"Killing Me Softly with His Song\"",
+      "question": "The original title of this Roberta Flack hit was \"Killing Me Softly with His Blues\"",
+      "value": 100,
+      "airdate": "1996-04-26T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5394,
+      "invalid_count": null
+    },
+    {
+      "id": 40640,
+      "answer": "Queen Latifah",
+      "question": "\"U.N.I.T.Y.\" is a pro-female rap song about self-respect by this \"Queen of Rap Music\"",
+      "value": 200,
+      "airdate": "1996-04-26T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5394,
+      "invalid_count": null
+    },
+    {
+      "id": 40646,
+      "answer": "Paul McCartney",
+      "question": "In 1982 he sang \"The Girl is Mine\" with Michael Jackson & \"Ebony and Ivory\" with Stevie Wonder",
+      "value": 300,
+      "airdate": "1996-04-26T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5394,
+      "invalid_count": null
+    },
+    {
+      "id": 40520,
+      "answer": "U2",
+      "question": "Members of this \"Joshua Tree\" band began playing together as Dublin high school students",
+      "value": 200,
+      "airdate": "1996-05-06T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6727,
+      "invalid_count": null
+    },
+    {
+      "id": 40652,
+      "answer": "<i>Grease</i>",
+      "question": "This 1978 film based on a Broadway musical gave us the No. 1 hit heard here: \"You're the one that I want (you are the one I want), ooh ooh ooh...\"",
+      "value": null,
+      "airdate": "1996-04-26T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5394,
+      "invalid_count": null
+    },
+    {
+      "id": 40658,
+      "answer": "The Everly Brothers",
+      "question": "These brothers made \"Cathy's Clown\" a No. 1 hit in 1960; Reba McEntire did the same in 1989",
+      "value": 500,
+      "airdate": "1996-04-26T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5394,
+      "invalid_count": null
+    },
+    {
+      "id": 40526,
+      "answer": "Sheryl Crow",
+      "question": "Her \"All I Wanna Do\" earned a Grammy as 1994's Record of the Year",
+      "value": 300,
+      "airdate": "1996-05-06T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6727,
+      "invalid_count": null
+    },
+    {
+      "id": 40532,
+      "answer": "R.E.M.",
+      "question": "This group's tour was delayed in 1995 when drummer Bill Berry was struck by an aneurysm",
+      "value": 400,
+      "airdate": "1996-05-06T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6727,
+      "invalid_count": null
+    },
+    {
+      "id": 40538,
+      "answer": "Nine Inch Nails",
+      "question": "Trent Reznor is the only permanent member of this band, NIN for short",
+      "value": 500,
+      "airdate": "1996-05-06T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6727,
+      "invalid_count": null
+    },
+    {
+      "id": 40854,
+      "answer": "Lynyrd Skynyrd",
+      "question": "This band adapted its name from Leonard Skinner, a gym teacher who loathed their long hair",
+      "value": 300,
+      "airdate": "1996-04-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 186,
+      "invalid_count": null
+    },
+    {
+      "id": 40842,
+      "answer": "Elvis Presley",
+      "question": "In 1960, the year of his Army discharge, he had 3 No. 1 hits including \"It's Now Or Never\"",
+      "value": 100,
+      "airdate": "1996-04-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 186,
+      "invalid_count": null
+    },
+    {
+      "id": 40848,
+      "answer": "Michael Jackson",
+      "question": "His 1983 hit \"Beat It\" featured Eddie Van Halen on guitar",
+      "value": 200,
+      "airdate": "1996-04-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 186,
+      "invalid_count": null
+    },
+    {
+      "id": 40860,
+      "answer": "Madonna",
+      "question": "Her 1985 hit \"Crazy For You\" reached the Top 5 in the U.K., as did its 1991 remixed version",
+      "value": 400,
+      "airdate": "1996-04-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 186,
+      "invalid_count": null
+    },
+    {
+      "id": 40866,
+      "answer": "Lulu",
+      "question": "While touring with The Beach Boys, she was cast in a major role in \"To Sir With Love\"",
+      "value": 500,
+      "airdate": "1996-04-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 186,
+      "invalid_count": null
+    },
+    {
+      "id": 42913,
+      "answer": "<i>A Hard Day\\'s Night</i>",
+      "question": "On July 6, 1964 this first Beatles film premiered in London",
+      "value": 100,
+      "airdate": "1995-11-20T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2569,
+      "invalid_count": null
+    },
+    {
+      "id": 42919,
+      "answer": "The Who",
+      "question": "In 1989, Roger Daltrey, Pete Townshend & John Entwistle reunited as this group for an American tour",
+      "value": 200,
+      "airdate": "1995-11-20T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2569,
+      "invalid_count": null
+    },
+    {
+      "id": 42925,
+      "answer": "Don McLean",
+      "question": "\"Killing Me Softly With His Song\" was inspired by a concert performance by this \"American Pie\" singer",
+      "value": 300,
+      "airdate": "1995-11-20T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2569,
+      "invalid_count": null
+    },
+    {
+      "id": 42931,
+      "answer": "Sun Records",
+      "question": "In 1969 Sam Phillips sold this Memphis-based record label to Shelby Singleton of Nashville",
+      "value": 400,
+      "airdate": "1995-11-20T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2569,
+      "invalid_count": null
+    },
+    {
+      "id": 42937,
+      "answer": "Kim Carnes",
+      "question": "This performer won a 1981 Grammy for Record of the Year for \"Bette Davis Eyes\"",
+      "value": 500,
+      "airdate": "1995-11-20T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2569,
+      "invalid_count": null
+    },
+    {
+      "id": 43902,
+      "answer": "Jim Morrison",
+      "question": "This Doors vocalist left the group after recording \"L.A. Woman\" & moved to Paris to write poetry",
+      "value": 100,
+      "airdate": "1995-10-03T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6650,
+      "invalid_count": null
+    },
+    {
+      "id": 43908,
+      "answer": "\"Sweet Caroline\"",
+      "question": "This Neil Diamond tune begins, \"Where it began, I cant begin to knowin', but then I know it's grown' strong\"",
+      "value": 200,
+      "airdate": "1995-10-03T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6650,
+      "invalid_count": null
+    },
+    {
+      "id": 43920,
+      "answer": "(1 of) Folsom or San Quentin",
+      "question": "1 of 2 California prisons where Johnny Cash recorded live albums in the late '60s",
+      "value": 400,
+      "airdate": "1995-10-03T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6650,
+      "invalid_count": null
+    },
+    {
+      "id": 43926,
+      "answer": "Barry Gibb",
+      "question": "Barbra Streisand teamed with him to win a 1980 Grammy for \"Guilty\"",
+      "value": 500,
+      "airdate": "1995-10-03T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6650,
+      "invalid_count": null
+    },
+    {
+      "id": 43914,
+      "answer": "Rod Stewart",
+      "question": "This \"Do Ya Think I'm Sexy?\" singer performed the hot harmonica licks on 1964's \"My Boy Lollypop\"",
+      "value": 300,
+      "airdate": "1995-10-03T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6650,
+      "invalid_count": null
+    },
+    {
+      "id": 44024,
+      "answer": "The Osmonds",
+      "question": "As this group, Donny & his brothers had only one No. 1 record in the U.S.: \"One Bad Apple\" in 1971",
+      "value": 100,
+      "airdate": "1995-09-27T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2751,
+      "invalid_count": null
+    },
+    {
+      "id": 44030,
+      "answer": "Billy Joel",
+      "question": "\"Piano Man\", released in 1973, was his first successful album",
+      "value": 200,
+      "airdate": "1995-09-27T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2751,
+      "invalid_count": null
+    },
+    {
+      "id": 44036,
+      "answer": "Monday(, Monday)",
+      "question": "You \"can't trust that day\", according to The Mamas & The Papas",
+      "value": 300,
+      "airdate": "1995-09-27T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2751,
+      "invalid_count": null
+    },
+    {
+      "id": 44042,
+      "answer": "Bonnie Raitt",
+      "question": "At age 40, she won 3 Grammys for \"Nick of Time\", 1989's album of the year",
+      "value": 400,
+      "airdate": "1995-09-27T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2751,
+      "invalid_count": null
+    },
+    {
+      "id": 44048,
+      "answer": "Pink Floyd",
+      "question": "This British group's 1979 album \"The Wall\" included the hit single \"Another Brick in the Wall\"",
+      "value": 500,
+      "airdate": "1995-09-27T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2751,
+      "invalid_count": null
+    },
+    {
+      "id": 44974,
+      "answer": "The Righteous Brothers",
+      "question": "Of the many times \"Unchained Melody\" has reached the Top 40 by various artists, 3 times were by this duo",
+      "value": null,
+      "airdate": "1997-07-01T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 755,
+      "invalid_count": null
+    },
+    {
+      "id": 46252,
+      "answer": "Tom Petty",
+      "question": "This leader of the Heartbreakers backed Stevie Nicks on her 1981 solo album \"Bella Donna\"",
+      "value": 100,
+      "airdate": "1997-04-30T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3023,
+      "invalid_count": null
+    },
+    {
+      "id": 44950,
+      "answer": "Barbra Streisand",
+      "question": "In 1974 her song \"The Way We Were\" was replaced at No. 1 by \"Love's Theme\" but regained the top spot a week later",
+      "value": 100,
+      "airdate": "1997-07-01T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 755,
+      "invalid_count": null
+    },
+    {
+      "id": 44956,
+      "answer": "Guns N\\' Roses",
+      "question": "This band's 1987 album \"Appetite For Destruction\" has sold over 13 million copies",
+      "value": 200,
+      "airdate": "1997-07-01T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 755,
+      "invalid_count": null
+    },
+    {
+      "id": 44962,
+      "answer": "Kenny G",
+      "question": "In 1992 Michael Bolton reached the Top 20 with \"Missing You Now\", a duet with this saxophonist",
+      "value": 300,
+      "airdate": "1997-07-01T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 755,
+      "invalid_count": null
+    },
+    {
+      "id": 44968,
+      "answer": "Olivia Newton-John",
+      "question": "With 10 weeks, her \"Physical\" single spent more time at No. 1 than any other single of the 1980s",
+      "value": 400,
+      "airdate": "1997-07-01T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 755,
+      "invalid_count": null
+    },
+    {
+      "id": 46257,
+      "answer": "U2",
+      "question": "Selections from this Irish group's \"Pop\" CD were available on the internet prior to its March 1997 release",
+      "value": 200,
+      "airdate": "1997-04-30T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3023,
+      "invalid_count": null
+    },
+    {
+      "id": 46262,
+      "answer": "Beck",
+      "question": "He won a 1996 Grammy for Best Male Rock Performance for \"Where It's At\" from his \"Odelay\" CD",
+      "value": 300,
+      "airdate": "1997-04-30T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3023,
+      "invalid_count": null
+    },
+    {
+      "id": 46266,
+      "answer": "the Smashing Pumpkins",
+      "question": "This group won a 1996 Grammy for Best Hard Rock Performance for \"Bullet With Butterfly Wings\"",
+      "value": 400,
+      "airdate": "1997-04-30T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3023,
+      "invalid_count": null
+    },
+    {
+      "id": 46271,
+      "answer": "Mariah Carey",
+      "question": "Her self-titled debut album, which included the hit \"Vision of Love\", reached the top of the charts in 1990",
+      "value": 500,
+      "airdate": "1997-04-30T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3023,
+      "invalid_count": null
+    },
+    {
+      "id": 46534,
+      "answer": "\"The Twist\"",
+      "question": "This Chubby Checker hit charted twice, both times reaching No. 1",
+      "value": 100,
+      "airdate": "1997-04-16T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1393,
+      "invalid_count": null
+    },
+    {
+      "id": 46540,
+      "answer": "Meat Loaf",
+      "question": "\"Beefy\" singer whose first No. 1 hit was \"I'd Do Anything For Love\" from his 1993 CD \"Bat Out Of Hell II\"",
+      "value": 200,
+      "airdate": "1997-04-16T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1393,
+      "invalid_count": null
+    },
+    {
+      "id": 46546,
+      "answer": "Pink Floyd",
+      "question": "This group's 1995 album \"Pulse\" includes a live performance of all the songs from \"Dark Side of the Moon\"",
+      "value": 300,
+      "airdate": "1997-04-16T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1393,
+      "invalid_count": null
+    },
+    {
+      "id": 46552,
+      "answer": "Gloria Estefan",
+      "question": "Her 1991 hit \"Coming Out of the Dark\" was about her tour bus accident of the preceding year",
+      "value": 400,
+      "airdate": "1997-04-16T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1393,
+      "invalid_count": null
+    },
+    {
+      "id": 46558,
+      "answer": "Boyz II Men",
+      "question": "R&B quartet consisting of \"Squirt\", \"Bass\", \"Slim\" & \"Alex Vanderpool\"",
+      "value": 500,
+      "airdate": "1997-04-16T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1393,
+      "invalid_count": null
+    },
+    {
+      "id": 47363,
+      "answer": "The Rock & Roll Hall of Fame",
+      "question": "Pink Floyd & the Velvet Underground were inducted into this at a January 1996 ceremony",
+      "value": 100,
+      "airdate": "1997-03-06T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 693,
+      "invalid_count": null
+    },
+    {
+      "id": 47368,
+      "answer": "Vanessa Williams",
+      "question": "This Miss America had a 1995 hit with \"Colors of the Wind\"",
+      "value": 200,
+      "airdate": "1997-03-06T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 693,
+      "invalid_count": null
+    },
+    {
+      "id": 47374,
+      "answer": "David Clayton-Thomas",
+      "question": "Born David Thomsett, this British-born singer sang for Blood, Sweat & Tears under this name",
+      "value": 300,
+      "airdate": "1997-03-06T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 693,
+      "invalid_count": null
+    },
+    {
+      "id": 47380,
+      "answer": "Elton John & George Michael",
+      "question": "These 2 singers, with 4 first names between them, had the 1991 No. 1 hit \"Don't Let The Sun Go Down On Me\"",
+      "value": 400,
+      "airdate": "1997-03-06T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 693,
+      "invalid_count": null
+    },
+    {
+      "id": 47386,
+      "answer": "Peabo Bryson",
+      "question": "He's been paired musically with Roberta Flack, Celine Dion, Regina Belle & Kenny G on top 40 hits",
+      "value": 500,
+      "airdate": "1997-03-06T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 693,
+      "invalid_count": null
+    },
+    {
+      "id": 48528,
+      "answer": "Tina Turner",
+      "question": "This rocker's 1988 album \"Tina Live in Europe\" won a Grammy for Best Rock Vocal Performance",
+      "value": 100,
+      "airdate": "1997-01-08T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 4154,
+      "invalid_count": null
+    },
+    {
+      "id": 48534,
+      "answer": "<i>The Ed Sullivan Show</i>",
+      "question": "On Feb. 9, 1964 the Beatles made their live U.S. TV debut on this show, reaching an audience of 73 million",
+      "value": 200,
+      "airdate": "1997-01-08T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 4154,
+      "invalid_count": null
+    },
+    {
+      "id": 48540,
+      "answer": "The Beach Boys",
+      "question": "Dean Torrence of Jan & Dean sang on this group's 1966 hit \"Barbara Ann\"",
+      "value": 300,
+      "airdate": "1997-01-08T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 4154,
+      "invalid_count": null
+    },
+    {
+      "id": 48546,
+      "answer": "(Carl) Palmer",
+      "question": "Of Emerson, Lake & Palmer, he was the drummer",
+      "value": 400,
+      "airdate": "1997-01-08T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 4154,
+      "invalid_count": null
+    },
+    {
+      "id": 48552,
+      "answer": "Boyz II Men",
+      "question": "Mariah Carey joined with this group to record the 1995 hit \"One Sweet Day\"",
+      "value": 500,
+      "airdate": "1997-01-08T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 4154,
+      "invalid_count": null
+    },
+    {
+      "id": 48649,
+      "answer": "Tina Turner",
+      "question": "Her best-selling autobiography was titled \"I, Tina:  My Life Story\"",
+      "value": 100,
+      "airdate": "1997-01-02T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 624,
+      "invalid_count": null
+    },
+    {
+      "id": 48655,
+      "answer": "U2",
+      "question": "B.B. King joined this band on \"When Love Comes To Town\" on their \"Rattle And Hum\" album",
+      "value": 200,
+      "airdate": "1997-01-02T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 624,
+      "invalid_count": null
+    },
+    {
+      "id": 48661,
+      "answer": "Roger Miller",
+      "question": "This 1960s pop & country star opened a hotel in Nashville called King Of The Road",
+      "value": 300,
+      "airdate": "1997-01-02T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 624,
+      "invalid_count": null
+    },
+    {
+      "id": 48667,
+      "answer": "Grand Ole Opry",
+      "question": "Elvis' one appearance on this WSM country music program, October 2, 1954, was considered lackluster",
+      "value": 400,
+      "airdate": "1997-01-02T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 624,
+      "invalid_count": null
+    },
+    {
+      "id": 48672,
+      "answer": "Mark Lindsay",
+      "question": "In 1969 this lead singer of Paul Revere & The Raiders began pursuing a solo career",
+      "value": 500,
+      "airdate": "1997-01-02T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 624,
+      "invalid_count": null
+    },
+    {
+      "id": 48767,
+      "answer": "Georgia",
+      "question": "Little Richard has a street named for him in Macon in this state",
+      "value": 100,
+      "airdate": "1996-12-27T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 618,
+      "invalid_count": null
+    },
+    {
+      "id": 48773,
+      "answer": "Chubby Checker",
+      "question": "His 1961 hit \"Let's Twist Again\" received a Grammy for best rock & roll recording",
+      "value": 200,
+      "airdate": "1996-12-27T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 618,
+      "invalid_count": null
+    },
+    {
+      "id": 48779,
+      "answer": "The Eagles",
+      "question": "This group's \"Hotel California\" album spawned 2 No. 1 hits, \"New Kid In Town\" & the title tune",
+      "value": 300,
+      "airdate": "1996-12-27T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 618,
+      "invalid_count": null
+    },
+    {
+      "id": 48784,
+      "answer": "The Commodores",
+      "question": "In 1978 this group earned Motown its first million seller in the U.K. with the following:\"You're once, twice, three times a lady, and I love you...\"",
+      "value": null,
+      "airdate": "1996-12-27T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 618,
+      "invalid_count": null
+    },
+    {
+      "id": 48789,
+      "answer": "Don McLean",
+      "question": "This \"American Pie\" singer was the subject of \"Killing Me Softly With His Song\"",
+      "value": 500,
+      "airdate": "1996-12-27T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 618,
+      "invalid_count": null
+    },
+    {
+      "id": 49177,
+      "answer": "\"Pocahontas\"",
+      "question": "This 1995 Disney film won Oscars for its musical score & for best song, \"Colors Of The Wind\"",
+      "value": 100,
+      "airdate": "1996-12-09T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 589,
+      "invalid_count": null
+    },
+    {
+      "id": 49183,
+      "answer": "Luther Vandross",
+      "question": "Once a backup singer for David Bowie, he released 2 early albums with his own band, Luther",
+      "value": 200,
+      "airdate": "1996-12-09T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 589,
+      "invalid_count": null
+    },
+    {
+      "id": 49189,
+      "answer": "Julian Lennon",
+      "question": "\"Valotte\" was this first Top 10 hit for this son of a Beatle",
+      "value": 300,
+      "airdate": "1996-12-09T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 589,
+      "invalid_count": null
+    },
+    {
+      "id": 49195,
+      "answer": "Mary Chapin Carpenter",
+      "question": "Karen & Richard Carpenter won their 1st Grammys in 1970 & this Carpenter won her 1st Grammy in 1992",
+      "value": 400,
+      "airdate": "1996-12-09T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 589,
+      "invalid_count": null
+    },
+    {
+      "id": 49201,
+      "answer": "<i>E.T.</i>",
+      "question": "Steven Spielberg film that inspired the 1982 hit heard here:\"Turn on your heartlight /Let it shine wherever you go...\"",
+      "value": null,
+      "airdate": "1996-12-09T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 589,
+      "invalid_count": null
+    },
+    {
+      "id": 50654,
+      "answer": "The Rolling Stones",
+      "question": "Before forming this group Keith Richards & Mick Jagger played in Alexis Korner's Blues Incorporated",
+      "value": 100,
+      "airdate": "1996-09-11T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7138,
+      "invalid_count": null
+    },
+    {
+      "id": 50660,
+      "answer": "Garth Brooks",
+      "question": "In 1991 his \"Ropin' the Wind\" became the first country album to enter the pop charts at No. 1",
+      "value": 200,
+      "airdate": "1996-09-11T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7138,
+      "invalid_count": null
+    },
+    {
+      "id": 50666,
+      "answer": "Celine Dion",
+      "question": "In 1996 radio listeners got \"Up Close & Personal\" with this singer of the film's theme:\"You were my strength when I was weak /You were my voice when I couldn't speak /You were my eyes when I couldn't see /You saw the best there was in me /Lifted me up...\"",
+      "value": null,
+      "airdate": "1996-09-11T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7138,
+      "invalid_count": null
+    },
+    {
+      "id": 50672,
+      "answer": "David Lee Roth",
+      "question": "In 1985 Sammy Hagar replaced him as lead singer of Van Halen",
+      "value": 400,
+      "airdate": "1996-09-11T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7138,
+      "invalid_count": null
+    },
+    {
+      "id": 50678,
+      "answer": "Stevie Wonder",
+      "question": "His first pop hit, \"Fingertips Part 2\", came from the 1963 album \"The Twelve Year Old Genius\"",
+      "value": 500,
+      "airdate": "1996-09-11T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 7138,
+      "invalid_count": null
+    },
+    {
+      "id": 50804,
+      "answer": "Paul Simon",
+      "question": "His 1973 hit \"Love Me Like a Rock\" featured the Dixie Hummingbirds on vocal backup",
+      "value": 100,
+      "airdate": "1996-09-04T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3429,
+      "invalid_count": null
+    },
+    {
+      "id": 50810,
+      "answer": "a \"Brick In The Wall\"",
+      "question": "In 1980 Pink Floyd scored its only No. 1 single with \"Another\" one of these",
+      "value": 200,
+      "airdate": "1996-09-04T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3429,
+      "invalid_count": null
+    },
+    {
+      "id": 50816,
+      "answer": "the Red Hot Chili Peppers",
+      "question": "Anthony Kiedis is the lead singer of this \"Hot\" rock group",
+      "value": 300,
+      "airdate": "1996-09-04T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3429,
+      "invalid_count": null
+    },
+    {
+      "id": 50822,
+      "answer": "<i>Rumours</i>",
+      "question": "In 1978 this Fleetwood Mac LP won a Grammy for Album of the Year",
+      "value": 400,
+      "airdate": "1996-09-04T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3429,
+      "invalid_count": null
+    },
+    {
+      "id": 50828,
+      "answer": "\"Unchained Melody\"",
+      "question": "In 1990 this Righteous Brothers hit recharted & went platinum after its exposure in the movie \"Ghost\"",
+      "value": 500,
+      "airdate": "1996-09-04T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3429,
+      "invalid_count": null
+    },
+    {
+      "id": 51013,
+      "answer": "Bruce Springsteen",
+      "question": "In February 1995 he reunited with his E Street Band to perform for a \"Murder Incorporated\" video shoot",
+      "value": 100,
+      "airdate": "1998-07-13T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1963,
+      "invalid_count": null
+    },
+    {
+      "id": 51019,
+      "answer": "\"I Feel Fine\"",
+      "question": "Feedback was first used in pop music in this Beatles song heard here:",
+      "value": 200,
+      "airdate": "1998-07-13T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1963,
+      "invalid_count": null
+    },
+    {
+      "id": 51025,
+      "answer": "the Bee Gees",
+      "question": "This group's \"Night Fever\" stayed at No. 1 longer than any other single of 1978--8 weeks",
+      "value": 300,
+      "airdate": "1998-07-13T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1963,
+      "invalid_count": null
+    },
+    {
+      "id": 51031,
+      "answer": "\"Tie A Yellow Ribbon Round The Ole Oak Tree\"",
+      "question": "This Tony Orlando & Dawn hit became a theme of hope during the Iranian Hostage Crisis, 1979 to 1981",
+      "value": 400,
+      "airdate": "1998-07-13T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1963,
+      "invalid_count": null
+    },
+    {
+      "id": 53191,
+      "answer": "\"Candle In The Wind\"",
+      "question": "A revised version of this song sold over 3 million copies its first week of sales, Sept. 23-29, 1997",
+      "value": 100,
+      "airdate": "1998-03-31T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 231,
+      "invalid_count": null
+    },
+    {
+      "id": 51037,
+      "answer": "The Righteous Brothers",
+      "question": "After disbanding in 1968 these \"brothers\" reunited in 1974 & had a No. 3 hit with \"Rock And Roll Heaven\"",
+      "value": 500,
+      "airdate": "1998-07-13T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1963,
+      "invalid_count": null
+    },
+    {
+      "id": 51075,
+      "answer": "The Beatles",
+      "question": "It's the \"Fab\" group heard here:",
+      "value": 100,
+      "airdate": "1998-07-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1961,
+      "invalid_count": null
+    },
+    {
+      "id": 51081,
+      "answer": "The Who",
+      "question": "No whats or whys about it; it's the band heard here:",
+      "value": 200,
+      "airdate": "1998-07-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1961,
+      "invalid_count": null
+    },
+    {
+      "id": 51087,
+      "answer": "Tina Turner",
+      "question": "A Tennessee native, this singer heard here was born Anna Mae Bullock:",
+      "value": 300,
+      "airdate": "1998-07-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1961,
+      "invalid_count": null
+    },
+    {
+      "id": 51093,
+      "answer": "Mariah Carey",
+      "question": "Daughter of an opera singer heard here with a 1992 No. 1 hit:",
+      "value": 400,
+      "airdate": "1998-07-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1961,
+      "invalid_count": null
+    },
+    {
+      "id": 51099,
+      "answer": "Counting Crows",
+      "question": "Group that flew up the charts with the song heard here:",
+      "value": 500,
+      "airdate": "1998-07-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1961,
+      "invalid_count": null
+    },
+    {
+      "id": 52476,
+      "answer": "Michael Jackson",
+      "question": "His 1982 album \"Thriller\" spawned the No. 1 hits \"Beat It\" & \"Billie Jean\"",
+      "value": 100,
+      "airdate": "1998-05-05T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2528,
+      "invalid_count": null
+    },
+    {
+      "id": 52482,
+      "answer": "Dr. Dre",
+      "question": "Andre Young is better known as this influential \"physician\" of rap",
+      "value": 200,
+      "airdate": "1998-05-05T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2528,
+      "invalid_count": null
+    },
+    {
+      "id": 52488,
+      "answer": "Sarah McLachlan",
+      "question": "Noted singer & tour organizer heard here",
+      "value": 300,
+      "airdate": "1998-05-05T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2528,
+      "invalid_count": null
+    },
+    {
+      "id": 52494,
+      "answer": "Arrested Development",
+      "question": "Despite its name, this group seen here is better known for its music than its encounters with the police",
+      "value": 400,
+      "airdate": "1998-05-05T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2528,
+      "invalid_count": null
+    },
+    {
+      "id": 52500,
+      "answer": "\"This Is How We Do It\"",
+      "question": "In 1995 Montell Jordan had a No. 1 pop & R&B hit with \"this\"",
+      "value": 500,
+      "airdate": "1998-05-05T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2528,
+      "invalid_count": null
+    },
+    {
+      "id": 53197,
+      "answer": "LeAnn Rimes",
+      "question": "Released August 29, 1997, her album \"You Light Up My Life\" went platinum October 10",
+      "value": 200,
+      "airdate": "1998-03-31T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 231,
+      "invalid_count": null
+    },
+    {
+      "id": 53203,
+      "answer": "The Artist Formerly Known As Prince",
+      "question": "(Hi, I'm Vanessa Marcil.)  I've appeared in 2 of this symbolized singer's videos, \"Undertaker\" & \"The Most Beautiful Girl In The World\"",
+      "value": null,
+      "airdate": "1998-03-31T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 231,
+      "invalid_count": null
+    },
+    {
+      "id": 53209,
+      "answer": "Barbra Streisand",
+      "question": "Celine Dion's \"Tell Him\" came out one week before this lady, her duet partner, released it on her album",
+      "value": 400,
+      "airdate": "1998-03-31T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 231,
+      "invalid_count": null
+    },
+    {
+      "id": 53215,
+      "answer": "Tom Petty",
+      "question": "The 1995 Best Male Rock Vocal Grammy went to this singer for \"You Don't Know How It Feels\"",
+      "value": 500,
+      "airdate": "1998-03-31T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 231,
+      "invalid_count": null
+    },
+    {
+      "id": 59835,
+      "answer": "Elton John",
+      "question": "Before recording their own songs in 1969, he & Bernie Taupin wrote for other artists",
+      "value": 500,
+      "airdate": "1999-04-08T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2337,
+      "invalid_count": null
+    },
+    {
+      "id": 54713,
+      "answer": "Mick Jagger",
+      "question": "We were shocked to hear this Rolling Stone was the guest vocalist on the Jacksons' hit \"State of Shock\"",
+      "value": 100,
+      "airdate": "1998-01-16T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1912,
+      "invalid_count": null
+    },
+    {
+      "id": 54719,
+      "answer": "Billy Joel",
+      "question": "His then-wife Christie Brinkley painted the cover of his 1993 album \"River of Dreams\"",
+      "value": 200,
+      "airdate": "1998-01-16T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1912,
+      "invalid_count": null
+    },
+    {
+      "id": 54725,
+      "answer": "The Supremes",
+      "question": "Cindy Birdsong sang with Patti LaBelle's Blue Belles before joining this Motown trio in 1967",
+      "value": 300,
+      "airdate": "1998-01-16T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1912,
+      "invalid_count": null
+    },
+    {
+      "id": 54731,
+      "answer": "Breaking My Heart",
+      "question": "Elton John & Kiki Dee had a No. 1 hit with \"Don't Go\" doing this",
+      "value": 400,
+      "airdate": "1998-01-16T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1912,
+      "invalid_count": null
+    },
+    {
+      "id": 54737,
+      "answer": "Rod Stewart",
+      "question": "In 1978 he asked, \"Do Ya Think I'm Sexy?\" & also recorded \"I Was Only Joking\"",
+      "value": 500,
+      "airdate": "1998-01-16T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1912,
+      "invalid_count": null
+    },
+    {
+      "id": 59811,
+      "answer": "Elvis Presley",
+      "question": "1969's Las Vegas Entertainer of the Year was this \"King of Rock & Roll\"",
+      "value": 100,
+      "airdate": "1999-04-08T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2337,
+      "invalid_count": null
+    },
+    {
+      "id": 59817,
+      "answer": "Guns N\\' Roses",
+      "question": "This band with an \"Appetite for Destruction\" is known as G N' R",
+      "value": 200,
+      "airdate": "1999-04-08T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2337,
+      "invalid_count": null
+    },
+    {
+      "id": 59823,
+      "answer": "Sugar Ray",
+      "question": "This \"Fly\" group's latest CD \"14:59\" plays on their so-called 15 minutes of fame",
+      "value": 300,
+      "airdate": "1999-04-08T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2337,
+      "invalid_count": null
+    },
+    {
+      "id": 59829,
+      "answer": "Australia",
+      "question": "When INXS went home, they went to this country",
+      "value": 400,
+      "airdate": "1999-04-08T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2337,
+      "invalid_count": null
+    },
+    {
+      "id": 60193,
+      "answer": "Madonna",
+      "question": "Ladies' Home Journal named this \"Like A Virgin\" singer one of the 100 most important women of the 20th century",
+      "value": 100,
+      "airdate": "1999-03-22T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3045,
+      "invalid_count": null
+    },
+    {
+      "id": 60198,
+      "answer": "The Who",
+      "question": "Their rock opera albums \"Tommy\" & \"Quadrophenia\" were both turned into films",
+      "value": 200,
+      "airdate": "1999-03-22T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3045,
+      "invalid_count": null
+    },
+    {
+      "id": 60203,
+      "answer": "Jefferson Airplane",
+      "question": "The group that finished the '80s as Starship first took off in the '60s under this name",
+      "value": 300,
+      "airdate": "1999-03-22T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3045,
+      "invalid_count": null
+    },
+    {
+      "id": 60209,
+      "answer": "Jimi Hendrix",
+      "question": "This '60s singer-guitarist called \"Foxy Lady\" \"about the only happy song\" he'd ever written",
+      "value": 400,
+      "airdate": "1999-03-22T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3045,
+      "invalid_count": null
+    },
+    {
+      "id": 60215,
+      "answer": "Steely Dan",
+      "question": "This group was reeling in the '70s with hits like \"Reeling in the Years\", \"Peg\" & \"Do It Again\"",
+      "value": 500,
+      "airdate": "1999-03-22T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3045,
+      "invalid_count": null
+    },
+    {
+      "id": 75385,
+      "answer": "Britney Spears",
+      "question": "In May 2000 she released her second album, \"Oops!...I Did It Again\"",
+      "value": 100,
+      "airdate": "2000-12-29T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3113,
+      "invalid_count": null
+    },
+    {
+      "id": 74420,
+      "answer": "The Rolling Stones",
+      "question": "Mick Jagger & this group have had a satisfying career with hits like \"Satisfaction\" & \"Jumpin' Jack Flash\"",
+      "value": 100,
+      "airdate": "2001-02-14T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1590,
+      "invalid_count": null
+    },
+    {
+      "id": 74425,
+      "answer": "Ricky Martin",
+      "question": "This Latin singing sensation sang \"Cup of Life\" at President George W. Bush's inauguration",
+      "value": 200,
+      "airdate": "2001-02-14T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1590,
+      "invalid_count": null
+    },
+    {
+      "id": 74431,
+      "answer": "the Spice Girls",
+      "question": "In 2000 these gals released \"Forever\", their first album since \"gingery\" Geri Halliwell left the group",
+      "value": 300,
+      "airdate": "2001-02-14T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1590,
+      "invalid_count": null
+    },
+    {
+      "id": 74437,
+      "answer": "ABBA",
+      "question": "This group with Agnetha & Bjorn came to fame in the '70s after \"Waterloo\" won the Eurovision song contest",
+      "value": 400,
+      "airdate": "2001-02-14T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1590,
+      "invalid_count": null
+    },
+    {
+      "id": 74442,
+      "answer": "Carlos Santana",
+      "question": "It was \"smooth\" sailing for this guitar great who released his award-winning \"Supernatural\" album in 1999",
+      "value": 500,
+      "airdate": "2001-02-14T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1590,
+      "invalid_count": null
+    },
+    {
+      "id": 74607,
+      "answer": "Madonna",
+      "question": "Her 1990 greatest hits album is called \"The Immaculate Collection\"",
+      "value": 100,
+      "airdate": "2001-02-05T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3049,
+      "invalid_count": null
+    },
+    {
+      "id": 74613,
+      "answer": "Bruce Springsteen",
+      "question": "He was \"Born in the U.S.A.\" on Sept. 23, 1949",
+      "value": 200,
+      "airdate": "2001-02-05T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3049,
+      "invalid_count": null
+    },
+    {
+      "id": 74619,
+      "answer": "\"Let It Be\"",
+      "question": "This Beatles song begins, \"When I find myself in times of trouble, Mother Mary comes to me\"",
+      "value": 300,
+      "airdate": "2001-02-05T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3049,
+      "invalid_count": null
+    },
+    {
+      "id": 74625,
+      "answer": "The Rolling Stones",
+      "question": "This rock band's 1991 concert film \"At the Max\" was shot during their Steel Wheels tour",
+      "value": 400,
+      "airdate": "2001-02-05T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3049,
+      "invalid_count": null
+    },
+    {
+      "id": 74630,
+      "answer": "Blondie",
+      "question": "It's the group heard here",
+      "value": 500,
+      "airdate": "2001-02-05T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3049,
+      "invalid_count": null
+    },
+    {
+      "id": 75391,
+      "answer": "\\'N Sync",
+      "question": "\"Bye Bye Bye\" from the album \"No Strings Attached\" was a hit for this group",
+      "value": 200,
+      "airdate": "2000-12-29T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3113,
+      "invalid_count": null
+    },
+    {
+      "id": 75396,
+      "answer": "the Goo Goo Dolls",
+      "question": "Their 1998 album \"Dizzy Up the Girl\" includes the songs \"Slide\", \"Broadway\" & \"Black Balloon\"",
+      "value": 300,
+      "airdate": "2000-12-29T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3113,
+      "invalid_count": null
+    },
+    {
+      "id": 75401,
+      "answer": "Usher",
+      "question": "His song \"You Make Me Wanna\" was nominated for a Grammy",
+      "value": 400,
+      "airdate": "2000-12-29T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3113,
+      "invalid_count": null
+    },
+    {
+      "id": 75406,
+      "answer": "Aaliyah",
+      "question": "This single-named singer-turned aactress is aalphabetically first in \"The Billboard Book of Top 40 Hits\"",
+      "value": 500,
+      "airdate": "2000-12-29T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3113,
+      "invalid_count": null
+    },
+    {
+      "id": 90013,
+      "answer": "Elvis Presley",
+      "question": "Before checking into \"Heartbreak Hotel\", this superstar drove a truck for the Crown Electric Company",
+      "value": 200,
+      "airdate": "2002-11-08T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2635,
+      "invalid_count": null
+    },
+    {
+      "id": 79416,
+      "answer": "Creed",
+      "question": "This band's 2001 CD \"Weathered\" spent 8 consecutive weeks atop the Billboard album chart",
+      "value": 200,
+      "airdate": "2002-05-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 560,
+      "invalid_count": null
+    },
+    {
+      "id": 79422,
+      "answer": "\"Walk On The Wild Side\"",
+      "question": "'70s classic heard here\"Plucked her eyebrows on the way /Shaved her legs and then he was a she /She says, 'Hey babe'\"",
+      "value": 400,
+      "airdate": "2002-05-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 560,
+      "invalid_count": null
+    },
+    {
+      "id": 79428,
+      "answer": "Staind",
+      "question": "Aaron Lewis is the lead singer of this \"It's Been Awhile\" alterna-band",
+      "value": 600,
+      "airdate": "2002-05-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 560,
+      "invalid_count": null
+    },
+    {
+      "id": 79434,
+      "answer": "Five for Fighting",
+      "question": "This group heard here gets its name from a hockey penalty\"I'm more than a bird /I'm more than a plane /I'm more than some pretty face /Beside a train\"",
+      "value": 800,
+      "airdate": "2002-05-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 560,
+      "invalid_count": null
+    },
+    {
+      "id": 79440,
+      "answer": "David Gray",
+      "question": "Footage from a concert at the Fillmore is included in his video for \"Babylon\"",
+      "value": 1000,
+      "airdate": "2002-05-09T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 560,
+      "invalid_count": null
+    },
+    {
+      "id": 88002,
+      "answer": "Gwen Stefani",
+      "question": "In 2002 this rocker wed Gavin Rossdale, vocalist/guitarist of the group Bush",
+      "value": 200,
+      "airdate": "2003-02-12T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2925,
+      "invalid_count": null
+    },
+    {
+      "id": 88008,
+      "answer": "Avril Lavigne",
+      "question": "In the summer of 2002 this Canadian teen made her debut with the hit song \"Complicated\"",
+      "value": 400,
+      "airdate": "2003-02-12T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2925,
+      "invalid_count": null
+    },
+    {
+      "id": 88014,
+      "answer": "\"Hero\"",
+      "question": "Nickelback's Chad Kroeger is featured on this song, heard here, a hit from a 2002 soundtrack",
+      "value": 600,
+      "airdate": "2003-02-12T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2925,
+      "invalid_count": null
+    },
+    {
+      "id": 88020,
+      "answer": "\"Soak Up the Sun\"",
+      "question": "Liz Phair was a guest vocalist on this Sheryl Crow song that says, \"I don't have digital, I don't have diddly squat\"",
+      "value": 800,
+      "airdate": "2003-02-12T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2925,
+      "invalid_count": null
+    },
+    {
+      "id": 88026,
+      "answer": "John Mayer",
+      "question": "Tunes from this singer-songwriter include \"No Such Thing\" & \"Your Body is a Wonderland\"",
+      "value": 1000,
+      "airdate": "2003-02-12T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2925,
+      "invalid_count": null
+    },
+    {
+      "id": 90019,
+      "answer": "The Everly Brothers",
+      "question": "They're the fraternal goodbye-sters who sang the 1957 hit \"Bye Bye Love\"",
+      "value": 400,
+      "airdate": "2002-11-08T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2635,
+      "invalid_count": null
+    },
+    {
+      "id": 90025,
+      "answer": "Pink Floyd",
+      "question": "This band's albums include \"Animals\", \"A Saucer Full of Secrets\" & \"Dark Side of the Moon\"",
+      "value": 600,
+      "airdate": "2002-11-08T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2635,
+      "invalid_count": null
+    },
+    {
+      "id": 90031,
+      "answer": "Steppenwolf",
+      "question": "In their Top 40 hit \"Born to Be Wild\", this band is credited with popularizing the term \"heavy metal\"",
+      "value": 800,
+      "airdate": "2002-11-08T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2635,
+      "invalid_count": null
+    },
+    {
+      "id": 90037,
+      "answer": "\"Radar Love\"",
+      "question": "Golden Earring's first Top 40 hit, this \"love\" song cruised to No. 13 in 1974",
+      "value": 1000,
+      "airdate": "2002-11-08T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2635,
+      "invalid_count": null
+    },
+    {
+      "id": 95810,
+      "answer": "\"Eleanor Rigby\"",
+      "question": "The title character of this Beatles song is \"wearing the face that she keeps in a jar by the door\"",
+      "value": 200,
+      "airdate": "2004-01-01T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 4641,
+      "invalid_count": null
+    },
+    {
+      "id": 93107,
+      "answer": "<i>Celebrity</i>",
+      "question": "\"Pop\" is on this 'N Sync album whose title refers ironically to the band's fame",
+      "value": 200,
+      "airdate": "2004-05-07T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2594,
+      "invalid_count": null
+    },
+    {
+      "id": 93113,
+      "answer": "Alanis Morissette",
+      "question": "You'll understand her songs, like \"Ironic\" & \"Hands Clean\", when you're older & more bitter",
+      "value": 400,
+      "airdate": "2004-05-07T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2594,
+      "invalid_count": null
+    },
+    {
+      "id": 93119,
+      "answer": "the Baha Men",
+      "question": "These \"Who Let The Dogs Out?\" hitmakers come, logically enough, from the Bahamas",
+      "value": 600,
+      "airdate": "2004-05-07T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2594,
+      "invalid_count": null
+    },
+    {
+      "id": 93125,
+      "answer": "punk",
+      "question": "With spiky hair & names like Sid Vicious, this style of rock music shocked people in the '70s",
+      "value": 800,
+      "airdate": "2004-05-07T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2594,
+      "invalid_count": null
+    },
+    {
+      "id": 93129,
+      "answer": "the A-Teens",
+      "question": "Despite their name, at least 1 member of this band has already hit 20:\"That is how we want it /Floorfiller /That is how we need it\"",
+      "value": 1000,
+      "airdate": "2004-05-07T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2594,
+      "invalid_count": null
+    },
+    {
+      "id": 95816,
+      "answer": "Bernie Taupin",
+      "question": "For most of the '70s, Elton John collaborated with this lyricist on songs like \"Your Song\"",
+      "value": 400,
+      "airdate": "2004-01-01T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 4641,
+      "invalid_count": null
+    },
+    {
+      "id": 95822,
+      "answer": "Mariah Carey",
+      "question": "She stayed at No. 1 for 8 weeks in 1993 with \"Dreamlover\"",
+      "value": 600,
+      "airdate": "2004-01-01T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 4641,
+      "invalid_count": null
+    },
+    {
+      "id": 95828,
+      "answer": "\"You Don\\'t Bring Me Flowers\"",
+      "question": "In 1978 Barbra Streisand & Neil Diamond had a No. 1 hit with this duet",
+      "value": 800,
+      "airdate": "2004-01-01T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 4641,
+      "invalid_count": null
+    },
+    {
+      "id": 95834,
+      "answer": "Joni Mitchell",
+      "question": "She made her Top 40 debut with 1972's \"You Turn Me On, I'm a Radio\"",
+      "value": 1000,
+      "airdate": "2004-01-01T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 4641,
+      "invalid_count": null
+    },
+    {
+      "id": 115499,
+      "answer": "Justin Timberlake",
+      "question": "In 2006 he was back with the hit \"SexyBack\"",
+      "value": 200,
+      "airdate": "2007-02-15T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1754,
+      "invalid_count": null
+    },
+    {
+      "id": 115505,
+      "answer": "Fergie",
+      "question": "In 2006 this singer from The Black Eyed Peas released this solo album \"The Dutchess\"",
+      "value": 400,
+      "airdate": "2007-02-15T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1754,
+      "invalid_count": null
+    },
+    {
+      "id": 115511,
+      "answer": "Madonna",
+      "question": "Her video for \"Hung Up\", from her album \"Confessions on a Dance Floor\", features krumping",
+      "value": 600,
+      "airdate": "2007-02-15T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1754,
+      "invalid_count": null
+    },
+    {
+      "id": 115517,
+      "answer": "Panic! at the Disco",
+      "question": "This group's over-the-top video for \"I Write Sins Not Tragedies\" won Video of the Year at the 2006 MTV VMAs",
+      "value": 800,
+      "airdate": "2007-02-15T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1754,
+      "invalid_count": null
+    },
+    {
+      "id": 115523,
+      "answer": "My Chemical Romance",
+      "question": "Welcome MCR, this alt-rock group, to \"The Black Parade\", its 2006 concept album",
+      "value": 1000,
+      "airdate": "2007-02-15T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1754,
+      "invalid_count": null
+    },
+    {
+      "id": 119229,
+      "answer": "The Who",
+      "question": "\"Pinball Wizard\" was a Top 40 hit for this '60s group",
+      "value": 200,
+      "airdate": "2008-07-07T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2544,
+      "invalid_count": null
+    },
+    {
+      "id": 118306,
+      "answer": "BeyoncÃ©",
+      "question": "It wasn't deja vu when this member of Destiny's Child sang with Jay-Z on the 2006 song \"Deja Vu\"",
+      "value": 200,
+      "airdate": "2006-10-03T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1273,
+      "invalid_count": null
+    },
+    {
+      "id": 118312,
+      "answer": "Kelly Clarkson",
+      "question": "This \"Walk Away\" singer didn't thank \"American Idol\" when she won a Grammy in 2006",
+      "value": 400,
+      "airdate": "2006-10-03T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1273,
+      "invalid_count": null
+    },
+    {
+      "id": 118318,
+      "answer": "Aly & AJ",
+      "question": "Michalka is the last name of these sisters who sing \"Chemicals React\"",
+      "value": 600,
+      "airdate": "2006-10-03T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1273,
+      "invalid_count": null
+    },
+    {
+      "id": 118324,
+      "answer": "Mariah Carey",
+      "question": "In 2005, she topped the album charts with \"The Emancipation of Mimi\"",
+      "value": 800,
+      "airdate": "2006-10-03T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1273,
+      "invalid_count": null
+    },
+    {
+      "id": 118330,
+      "answer": "Rihanna",
+      "question": "This \"Girl Like Me\" songstress was born in Barbados",
+      "value": 1000,
+      "airdate": "2006-10-03T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 1273,
+      "invalid_count": null
+    },
+    {
+      "id": 119235,
+      "answer": "\"American Pie\"",
+      "question": "This Don McLean song was inspired by the 1959 death of Buddy Holly",
+      "value": 400,
+      "airdate": "2008-07-07T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2544,
+      "invalid_count": null
+    },
+    {
+      "id": 119241,
+      "answer": "Ray Charles",
+      "question": "2004's \"Genius Loves Company\", featuring a dozen duets, was the final new album by this man",
+      "value": 600,
+      "airdate": "2008-07-07T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2544,
+      "invalid_count": null
+    },
+    {
+      "id": 119247,
+      "answer": "UB40",
+      "question": "In 1984 this group broke into the Top 40 with \"Red Red Wine\"; in 2008 they broke up",
+      "value": 800,
+      "airdate": "2008-07-07T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2544,
+      "invalid_count": null
+    },
+    {
+      "id": 119253,
+      "answer": "KT Tunstall",
+      "question": "\"Kate\" is what family & friends call this singer of \"Suddenly I See\"",
+      "value": 1000,
+      "airdate": "2008-07-07T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2544,
+      "invalid_count": null
+    },
+    {
+      "id": 122699,
+      "answer": "Satan",
+      "question": "The title of a 2005 album by The White Stripes is \"Get Behind Me\" you",
+      "value": 200,
+      "airdate": "2008-01-25T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2301,
+      "invalid_count": null
+    },
+    {
+      "id": 122711,
+      "answer": "<i>The Duchess</i>",
+      "question": "It's the royal-sounding title of Fergie's solo album",
+      "value": 600,
+      "airdate": "2008-01-25T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2301,
+      "invalid_count": null
+    },
+    {
+      "id": 122717,
+      "answer": "<i>Moulin Rouge!</i>",
+      "question": "Pink took part in the remake of \"Lady Marmalade\", featured on the soundtrack of this Nicole Kidman film",
+      "value": 800,
+      "airdate": "2008-01-25T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2301,
+      "invalid_count": null
+    },
+    {
+      "id": 122723,
+      "answer": "Las Vegas",
+      "question": "\"Somebody Told Me\" that The Killers were formed in this city in 2002",
+      "value": 1000,
+      "airdate": "2008-01-25T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2301,
+      "invalid_count": null
+    },
+    {
+      "id": 122705,
+      "answer": "September 11",
+      "question": "The tragic events of this date inspired the song \"Skylines And Turnstiles\" by My Chemical Romance",
+      "value": 400,
+      "airdate": "2008-01-25T20:00:00.000Z",
+      "category_id": 2,
+      "game_id": 2301,
+      "invalid_count": null
+    },
+    {
+      "id": 148004,
+      "answer": "Justin Bieber",
+      "question": "He's the Canadian pop sensation being sensational here\"There's gonna be one less lonely girl...\"",
+      "value": 200,
+      "airdate": "2012-05-03T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3888,
+      "invalid_count": null
+    },
+    {
+      "id": 132874,
+      "answer": "\"Lucy In The Sky With Diamonds\"",
+      "question": "A drawing of a school chum of Julian Lennon inspired this song about a \"girl with kaleidoscope eyes\"",
+      "value": 200,
+      "airdate": "2010-07-15T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3438,
+      "invalid_count": null
+    },
+    {
+      "id": 132880,
+      "answer": "The Doors",
+      "question": "Their last hit was 1971's \"Riders On The Storm\"",
+      "value": 400,
+      "airdate": "2010-07-15T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3438,
+      "invalid_count": null
+    },
+    {
+      "id": 132886,
+      "answer": "Natalie Cole",
+      "question": "At the 2009 Grammys, her \"Still Unforgettable\" won the award for Best Traditional Pop Vocal Album",
+      "value": 600,
+      "airdate": "2010-07-15T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3438,
+      "invalid_count": null
+    },
+    {
+      "id": 132892,
+      "answer": "\"Viva La Vida\"",
+      "question": "This Coldplay hit includes the lines \"I hear Jerusalem bells a-ringing, Roman cavalry choirs are singing\"",
+      "value": 800,
+      "airdate": "2010-07-15T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3438,
+      "invalid_count": null
+    },
+    {
+      "id": 132898,
+      "answer": "Supertramp",
+      "question": "Their 1979 album \"Breakfast in America\" featured a feast of hits like \"Take The Long Way Home\"",
+      "value": 1000,
+      "airdate": "2010-07-15T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3438,
+      "invalid_count": null
+    },
+    {
+      "id": 148010,
+      "answer": "Jay-Z",
+      "question": "This roc-a-fella introduced us to a \"Hard Knock Life (Ghetto Anthem)\"",
+      "value": 400,
+      "airdate": "2012-05-03T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3888,
+      "invalid_count": null
+    },
+    {
+      "id": 148016,
+      "answer": "Amy Winehouse",
+      "question": "\"You Sent Me Flying\", sang this British woman who died young in 2011",
+      "value": 600,
+      "airdate": "2012-05-03T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3888,
+      "invalid_count": null
+    },
+    {
+      "id": 148022,
+      "answer": "Avril Lavigne",
+      "question": "Ontario native seen hereback in high school. We hear she had a thingfor \"Sk8er Bois\"",
+      "value": 800,
+      "airdate": "2012-05-03T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3888,
+      "invalid_count": null
+    },
+    {
+      "id": 148028,
+      "answer": "She & Him",
+      "question": "M. Ward & Zooey Deschanel, I now pronoun you this duo",
+      "value": 1000,
+      "airdate": "2012-05-03T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 3888,
+      "invalid_count": null
+    },
+    {
+      "id": 193864,
+      "answer": "Harry Styles",
+      "question": "Here's a \"Sign Of The Times\"--he's a real Cheshire cat",
+      "value": 200,
+      "airdate": "2019-06-21T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6333,
+      "invalid_count": null
+    },
+    {
+      "id": 175354,
+      "answer": "Gwen Stefani",
+      "question": "The 2016 Grammycast featured \"Make Me Like You\", a video recorded live on roller skates by this singer",
+      "value": 200,
+      "airdate": "2016-04-12T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5245,
+      "invalid_count": null
+    },
+    {
+      "id": 175360,
+      "answer": "Meghan Trainor",
+      "question": "She co-wrote her hit \"All About That Bass\"",
+      "value": 400,
+      "airdate": "2016-04-12T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5245,
+      "invalid_count": null
+    },
+    {
+      "id": 175366,
+      "answer": "Ryan Lewis and Macklemore",
+      "question": "We've got the same love for this duo, a rapper and DJ-producer, seen here",
+      "value": 600,
+      "airdate": "2016-04-12T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5245,
+      "invalid_count": null
+    },
+    {
+      "id": 175372,
+      "answer": "One Direction",
+      "question": "In 2015 Zayn Malik officially quit this band",
+      "value": 800,
+      "airdate": "2016-04-12T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5245,
+      "invalid_count": null
+    },
+    {
+      "id": 175378,
+      "answer": "Elle King",
+      "question": "Former \"SNL\" cast member Rob Schneider is the father of this \"Ex's & Oh's\" singer",
+      "value": 1000,
+      "airdate": "2016-04-12T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 5245,
+      "invalid_count": null
+    },
+    {
+      "id": 193870,
+      "answer": "\"God Is A Woman\"",
+      "question": "Ariana Grande sings, \"When all is said & done, you will believe\" this, a 2018 song that mixes spirituality & female power",
+      "value": 400,
+      "airdate": "2019-06-21T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6333,
+      "invalid_count": null
+    },
+    {
+      "id": 193876,
+      "answer": "The 1975",
+      "question": "\"I Like It When You Sleep, for You Are So Beautiful Yet So Unaware of It\" was a No. 1 Album for this \"Yearly\" band",
+      "value": 600,
+      "airdate": "2019-06-21T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6333,
+      "invalid_count": null
+    },
+    {
+      "id": 193882,
+      "answer": "the middle",
+      "question": "A song by Zedd, Maren Morris & Grey asks, \"Oh baby, why don't you just meet me in\" this title place",
+      "value": 800,
+      "airdate": "2019-06-21T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6333,
+      "invalid_count": null
+    },
+    {
+      "id": 193888,
+      "answer": "Ty Dolla Sign",
+      "question": "Ka-ching! Post Malone teamed up with him for \"Psycho\"",
+      "value": 1000,
+      "airdate": "2019-06-21T19:00:00.000Z",
+      "category_id": 2,
+      "game_id": 6333,
+      "invalid_count": null
+    }
+  ]
+}

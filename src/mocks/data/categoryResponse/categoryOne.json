@@ -1,0 +1,27 @@
+{
+  "id": 1,
+  "title": "1885",
+  "clues_count": 2,
+  "clues": [
+    {
+      "id": 14,
+      "answer": "<i>The Arabian Nights</i>",
+      "question": "Explorer Richard Burton published his translation of these 1,001 tales",
+      "value": 400,
+      "airdate": "1985-05-30T19:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7599,
+      "invalid_count": null
+    },
+    {
+      "id": 19,
+      "answer": "Special Delivery",
+      "question": "Now costing over $2 extra, this service started nationwide at only 10Â¢ above postage",
+      "value": null,
+      "airdate": "1985-05-30T19:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7599,
+      "invalid_count": null
+    }
+  ]
+}

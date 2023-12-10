@@ -1,19 +1,20 @@
 import { useContext } from 'react';
-import { Question, Questions, MainContextType } from 'models/types';
+import { Clue, Clues } from 'models/categories/types';
+import { MainContextType } from 'models/types';
 import { MainContext } from 'contexts';
 
-const useCategoryQuestions = (categoryId: number) => {
+const useCategoryClues = (categoryId: number) => {
 	const data: MainContextType = useContext(MainContext);
 
-	const allQuestions: Questions = data.questions;
+	const allClues: Clues = data.clues;
 
-	const categoryQuestions = allQuestions
-		.filter((question: Question) => question.categoryId === categoryId)
-		.sort((a: Question, b: Question) => {
+	const categoryClues = allClues
+		.filter((clue: Clue) => clue.categoryId === categoryId)
+		.sort((a: Clue, b: Clue) => {
 			return a.value - b.value;
 		});
 
-	return categoryQuestions;
+	return categoryClues;
 };
 
-export default useCategoryQuestions;
+export default useCategoryClues;

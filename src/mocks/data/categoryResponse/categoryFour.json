@@ -1,0 +1,57 @@
+{
+  "id": 4,
+  "title": "comic cats & dogs",
+  "clues_count": 5,
+  "clues": [
+    {
+      "id": 3,
+      "answer": "Underdog",
+      "question": "This canine caped crusader floats by Macy's every Thanksgiving",
+      "value": 100,
+      "airdate": "1985-05-30T19:00:00.000Z",
+      "category_id": 4,
+      "game_id": 7599,
+      "invalid_count": null
+    },
+    {
+      "id": 7,
+      "answer": "Odie",
+      "question": "Garfield finds this dog a pushover, usually over edge of table",
+      "value": 200,
+      "airdate": "1985-05-30T19:00:00.000Z",
+      "category_id": 4,
+      "game_id": 7599,
+      "invalid_count": null
+    },
+    {
+      "id": 11,
+      "answer": "Figaro",
+      "question": "Geppetto's cat in \"Pinocchio\"",
+      "value": 300,
+      "airdate": "1985-05-30T19:00:00.000Z",
+      "category_id": 4,
+      "game_id": 7599,
+      "invalid_count": null
+    },
+    {
+      "id": 16,
+      "answer": "Katnip",
+      "question": "As Tom was to Jerry, he was to Herman",
+      "value": 400,
+      "airdate": "1985-05-30T19:00:00.000Z",
+      "category_id": 4,
+      "game_id": 7599,
+      "invalid_count": null
+    },
+    {
+      "id": 21,
+      "answer": "Lady and the Tramp",
+      "question": "Mom & Dad to Disney dog Scamp",
+      "value": 500,
+      "airdate": "1985-05-30T19:00:00.000Z",
+      "category_id": 4,
+      "game_id": 7599,
+      "invalid_count": null
+    }
+  ]
+}

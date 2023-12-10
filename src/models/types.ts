@@ -1,32 +1,13 @@
 import { Dispatch } from 'react';
-
-export interface Question {
-	id: number;
-	questionText: string;
-	answerText: string;
-	showQuestion: boolean;
-	value: number;
-	clicked: boolean;
-	categoryId: number;
-};
-
-export type Questions = Question[];
-
-export interface Category {
-	id: number;
-	name: string;
-	questionIds: number[];
-};
-
-export type Categories = Category[];
+import { Categories, Clues } from 'models/categories/types';
 
 export interface ApiDataResponse {
-	questions: Questions;
+	clues: Clues;
 	categories: Categories;
 };
 
 export interface MainContextType {
-	questions: Questions;
-	setQuestions: Dispatch<React.SetStateAction<Questions>>
+	clues: Clues;
+	setClues: Dispatch<React.SetStateAction<Clues>>
 	categories: Categories;
 };

@@ -1,15 +1,15 @@
-import { Category } from 'models/types';
+import { Category } from 'models/categories/types';
 
 export const categoryOne: Category = {
 	id: 1,
-	name: 'State Facts',
-	questionIds: [1, 2]
+	title: 'State Facts',
+	clues: []
 };
 
 export const categoryTwo: Category = {
 	id: 2,
-	name: 'Nature',
-	questionIds: [2, 3]
+	title: 'Nature',
+	clues: []
 };
 
 export const categories = [categoryOne, categoryTwo]
