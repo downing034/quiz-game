@@ -1,8 +1,8 @@
 import { fetchTextData } from 'models/categories';
 import { Convert, CategoryResponse as ApiCategory } from 'models/apiTyping';
 
-// Third party base questions url
-export const PRIMARY_API_URL = "https://www.jservice.io/api";
+// Third party base categories/clues url
+export const PRIMARY_API_URL = "https://jservice.io/api";
 export const CATEGORY_URL = PRIMARY_API_URL + "/category";
 
 export const buildCategoryUrl = (categoryId: string | number) => CATEGORY_URL + `?id=${categoryId}`;

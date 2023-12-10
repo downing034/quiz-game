@@ -1,4 +1,4 @@
-// import { Convert } from 'models/apiTyping';
+import { Convert } from 'models/apiTyping';
 // import { Questions, Categories, CategoryV2 } from 'models/types';
 
 // export const parseString = (value: any): string => {
@@ -157,26 +157,3 @@
 // 	}
 // };
 
-// export const newEmptyQuestion = () => {
-// 	return (
-// 		{
-// 			id: Math.random(),
-// 			questionText: '',
-// 			answerText: '',
-// 			showQuestion: false,
-// 			value: Math.random(),
-// 			clicked: false,
-// 			categoryId: Math.random()
-// 		}
-// 	)
-// };
-
-// export const newEmptyCategory = () => {
-// 	return (
-// 	{
-// 		id: Math.random(),
-// 		name: '',
-// 		questionIds: []
-// 	}
-// 	)
-// }

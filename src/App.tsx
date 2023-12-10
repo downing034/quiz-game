@@ -4,7 +4,7 @@ import { LoadingContextProvider, MainContextProvider } from 'contexts';
 
 import Board from 'components/Board';
 import Header from 'components/Header';
-import Question from 'components/Question';
+import Clue from 'components/Clue';
 import NotFoundPage from 'components/NotFoundPage';
 
 import 'styles/shared.css';
@@ -26,7 +26,7 @@ const App = () => {
             <Routes>
               <Route path="/" element={<Board />} />
 
-              <Route path="category/:categoryId/question/:questionValue" element={<Question />} />
+              <Route path="category/:categoryId/clue/:clueValue" element={<Clue />} />
 
               <Route path="*" element={<NotFoundPage />} /> 
             </Routes>

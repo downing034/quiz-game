@@ -1,15 +1,15 @@
 import { useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { Box, Button, Paper } from '@mui/material';
-import useQuestion from './useQuestion';
+import useClue from './useClue';
 import useCategory from './useCategory';
 import CategoryHeader from './CategoryHeader';
-import 'styles/question.css';
+import 'styles/clue.css';
 
-const Question = () => {
+const Clue = () => {
 	let navigate = useNavigate();
-	const { categoryId, questionValue } = useParams();
-	const question = useQuestion(Number(categoryId), Number(questionValue));
+	const { categoryId, clueValue } = useParams();
+	const clue = useClue(Number(categoryId), Number(clueValue));
 	const category = useCategory(Number(categoryId));
 
 	const [showAnswer, setShowAnswer] = useState<boolean>(false);
@@ -20,7 +20,7 @@ const Question = () => {
 			navigate('/')
 		} else {
 			setShowAnswer(true)
-			question.clicked = true;
+			clue.clicked = true;
 		}
 	}
 
@@ -38,12 +38,12 @@ const Question = () => {
 					justifyContent='center'
 					alignItems='center'
 					paddingBottom={2}
-					className="question-view"
+					className="clue-view"
 				>
-					<CategoryHeader name={category.name} />
+					<CategoryHeader title={category.title} />
 
 					<Box height="60px" margin={2}>
-						<h2>{ showAnswer ? question.answerText : question.questionText}</h2>
+						<h2>{ showAnswer ? clue.answer : clue.question}</h2>
 					</Box>
 
 					<Button variant="contained" color="warning" onClick={() => handleButtonClick()}>{ showAnswer ? 'Back to Board' : 'Reveal' }</Button>
@@ -54,4 +54,4 @@ const Question = () => {
 		
 	)
 };
-export default Question;
+export default Clue;

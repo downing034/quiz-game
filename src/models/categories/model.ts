@@ -1,4 +1,4 @@
-import { fetchCategory, buildCategoryUrl } from 'models/categories/api';
+import { fetchCategory } from 'models/categories/api';
 import { Categories, Clues } from 'models/categories/types';
 import {
   generateRandomCategoryIds,

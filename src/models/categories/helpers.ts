@@ -55,3 +55,23 @@ export const mapApiCategory = (category: ApiCategory): Category => {
     clues,
   }
 };
+
+export const newEmptyClue = () => {
+	return ({
+			id: Math.random(),
+			question: '',
+			answer: '',
+			showQuestion: false,
+			value: Math.random(),
+			clicked: false,
+			categoryId: Math.random()
+	})
+};
+
+export const newEmptyCategory = () => {
+	return ({
+		id: Math.random(),
+		title: '',
+		questionIds: []
+	})
+}

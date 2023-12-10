@@ -1,7 +1,7 @@
 import { Box, useTheme } from '@mui/material';
 import { Category as CategoryType } from 'models/categories/types';
 import CategoryHeader from './CategoryHeader';
-import QuestionValue from './QuestionValue';
+import ClueValue from './ClueValue';
 import { CLUE_VALUES } from 'config/constants';
 
 export interface CategoryProps {
@@ -20,13 +20,13 @@ const Category = ({ category }: CategoryProps) => {
 			alignItems="center"
 			margin={theme.spacing(0.5)}
 		>
-			<CategoryHeader name={category.name} />
+			<CategoryHeader title={category.title} />
 
-			{QUESTION_VALUES.map((qValue) => (
-        <QuestionValue
+			{CLUE_VALUES.map((qValue) => (
+        <ClueValue
         	key={qValue}
         	categoryId={category.id}
-        	questionValue={qValue}
+        	clueValue={qValue}
         />
       ))}
 

@@ -2,10 +2,10 @@ import { Box, useMediaQuery, useTheme } from '@mui/material';
 import 'styles/board.css';
 
 export interface CategoryHeaderProps {
-	name: string;
+	title: string;
 };
 
-const CategoryHeader = ({ name }: CategoryHeaderProps) => {
+const CategoryHeader = ({ title }: CategoryHeaderProps) => {
 	const theme = useTheme();
 	const isMobile: boolean = !useMediaQuery(theme.breakpoints.up('md'));
 
@@ -26,7 +26,7 @@ const CategoryHeader = ({ name }: CategoryHeaderProps) => {
 			marginBottom={theme.spacing(2)}
 			sx={styles}
 		>
-			<h4>{name}</h4>
+			<h4>{title}</h4>
 		</Box>
 	)
 };

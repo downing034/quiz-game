@@ -1,20 +1,20 @@
 import { Box, useTheme } from '@mui/material';
 import { Link } from 'react-router-dom';
-import useQuestion from './useQuestion';
+import useClue from './useClue';
 import "styles/shared.css";
-import "styles/question.css";
+import "styles/clue.css";
 
-export interface QuestionValueProps {
+export interface ClueValueProps {
 	categoryId: number;
-	questionValue: number;
+	clueValue: number;
 };
 
-const QuestionValue = ({ categoryId, questionValue }: QuestionValueProps) => {
+const ClueValue = ({ categoryId, clueValue }: ClueValueProps) => {
 	const { spacing } = useTheme();
-	const question = useQuestion(Number(categoryId), Number(questionValue));
-	const questionLink = `category/${categoryId}/question/${question.value}`;
+	const clue = useClue(Number(categoryId), Number(clueValue));
+	const clueLink = `category/${categoryId}/clue/${clue.value}`;
 
-	const hasBeenAnswered = question.clicked;
+	const hasBeenAnswered = clue.clicked;
 
 	if (hasBeenAnswered) {
 		return (
@@ -26,14 +26,14 @@ const QuestionValue = ({ categoryId, questionValue }: QuestionValueProps) => {
 						justifyContent="center"
 						alignItems="center"
 						marginTop={spacing(0.5)}
-						className="question-box"
+						className="clue-box"
 					/>
 			</Box>
 		)
 	} else {
 		return (
 			<Box width="100%">
-				<Link to={questionLink} className="link">
+				<Link to={clueLink} className="link">
 					<Box
 						width="100%"
 						height="150px"
@@ -41,13 +41,13 @@ const QuestionValue = ({ categoryId, questionValue }: QuestionValueProps) => {
 						justifyContent="center"
 						alignItems="center"
 						marginTop={spacing(0.5)}
-						className="question-box"
+						className="clue-box"
 					>
-						<h1 className="question-value">${questionValue}</h1>
+						<h1 className="clue-value">${clueValue}</h1>
 					</Box>
 				</Link>
 			</Box>
 		)
 	};
 };
-export default QuestionValue;
+export default ClueValue;
