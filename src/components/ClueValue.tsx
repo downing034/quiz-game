@@ -27,6 +27,7 @@ const ClueValue = ({ categoryId, clueValue }: ClueValueProps) => {
 						alignItems="center"
 						marginTop={spacing(0.5)}
 						className="clue-box"
+						style={{ marginTop: '0px' }}
 					/>
 			</Box>
 		)
@@ -42,6 +43,7 @@ const ClueValue = ({ categoryId, clueValue }: ClueValueProps) => {
 						alignItems="center"
 						marginTop={spacing(0.5)}
 						className="clue-box"
+						style={{ marginTop: '0px' }}
 					>
 						<h1 className="clue-value">${clueValue}</h1>
 					</Box>

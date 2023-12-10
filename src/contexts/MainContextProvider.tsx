@@ -24,7 +24,6 @@ const MainContextProvider = ({ children }: { children: ReactNode }) => {
       const { categories, clues } = await getCategoriesAndClues();
       setCategories(categories);
       setClues(clues);
-
       setLoading(false)
     })();
   },[setLoading]);

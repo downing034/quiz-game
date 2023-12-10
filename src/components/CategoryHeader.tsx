@@ -10,7 +10,7 @@ const CategoryHeader = ({ title }: CategoryHeaderProps) => {
 	const isMobile: boolean = !useMediaQuery(theme.breakpoints.up('md'));
 
 	const styles = {
-		minHeight: isMobile ? "80px" : "60px",
+		minHeight: "80px",
 		padding: isMobile ? "0 10 0 10" : "",
 	}
 
@@ -26,7 +26,7 @@ const CategoryHeader = ({ title }: CategoryHeaderProps) => {
 			marginBottom={theme.spacing(2)}
 			sx={styles}
 		>
-			<h4>{title}</h4>
+			<h4>{title.toUpperCase()}</h4>
 		</Box>
 	)
 };
