@@ -14,6 +14,7 @@
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "msw": "^0.49.2",
+    "quicktype": "^23.0.80",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.6.1",
@@ -25,7 +26,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "generate-api-types": "quicktype --no-enums --runtime-typecheck-ignore-unknown-properties -o src/models/apiTyping/types.ts src/mocks/data"
   },
   "eslintConfig": {
     "extends": [

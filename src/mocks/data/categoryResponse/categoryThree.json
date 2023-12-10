@@ -1,0 +1,617 @@
+{
+  "id": 3,
+  "title": "highways & byways",
+  "clues_count": 61,
+  "clues": [
+    {
+      "id": 2,
+      "answer": "the Everglades",
+      "question": "\"Alligator Alley\" is a highway which runs through this Florida swamp",
+      "value": 100,
+      "airdate": "1985-05-30T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 7599,
+      "invalid_count": null
+    },
+    {
+      "id": 42971,
+      "answer": "Champs-Elysees",
+      "question": "The name of this famous street is French for \"Avenue of the Elysian Fields\"",
+      "value": 100,
+      "airdate": "1995-11-16T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 2567,
+      "invalid_count": null
+    },
+    {
+      "id": 35500,
+      "answer": "Madison Avenue",
+      "question": "As Wall Street is associated with stocks, this NYC street is associated with advertising",
+      "value": 100,
+      "airdate": "1993-12-03T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 156,
+      "invalid_count": null
+    },
+    {
+      "id": 35506,
+      "answer": "the Champs-ÃlysÃ©es",
+      "question": "This Paris main street recently received a facelift and 850 underground parking spaces",
+      "value": 200,
+      "airdate": "1993-12-03T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 156,
+      "invalid_count": null
+    },
+    {
+      "id": 35512,
+      "answer": "Sunset",
+      "question": "Roxbury, Spago & The Whiskey are on this Los Angeles street's \"Strip\"",
+      "value": 300,
+      "airdate": "1993-12-03T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 156,
+      "invalid_count": null
+    },
+    {
+      "id": 35518,
+      "answer": "Beijing",
+      "question": "In this city you can enter Tiananmen Square off Changan Avenue",
+      "value": 400,
+      "airdate": "1993-12-03T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 156,
+      "invalid_count": null
+    },
+    {
+      "id": 35524,
+      "answer": "San Francisco",
+      "question": "Collins Avenue runs thru Miami Beach's South Beach & the Embarcadero runs thru this city's North Beach",
+      "value": 500,
+      "airdate": "1993-12-03T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 156,
+      "invalid_count": null
+    },
+    {
+      "id": 42977,
+      "answer": "Vatican City",
+      "question": "The Passetto, a fortified corridor, connects Castel Sant'Angelo with this city",
+      "value": 200,
+      "airdate": "1995-11-16T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 2567,
+      "invalid_count": null
+    },
+    {
+      "id": 42983,
+      "answer": "Boston Common",
+      "question": "You'll find this oldest public park in the United States between Beacon & Tremont Streets",
+      "value": 300,
+      "airdate": "1995-11-16T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 2567,
+      "invalid_count": null
+    },
+    {
+      "id": 42989,
+      "answer": "Berlin",
+      "question": "This city's Unter den Linden was laid out to connect the Royal Palace with the Tiergarten",
+      "value": 400,
+      "airdate": "1995-11-16T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 2567,
+      "invalid_count": null
+    },
+    {
+      "id": 42995,
+      "answer": "Delphi",
+      "question": "The Sacred Way zigzagged from the entrance of this oracle's ancient sanctuary to the Temple of Apollo",
+      "value": 500,
+      "airdate": "1995-11-16T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 2567,
+      "invalid_count": null
+    },
+    {
+      "id": 117257,
+      "answer": "Broadway",
+      "question": "Theaters in the district named for this NYC road increased from about 20 in 1900 to an all-time high of 80 in 1925",
+      "value": 200,
+      "airdate": "2006-11-24T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 1392,
+      "invalid_count": null
+    },
+    {
+      "id": 47364,
+      "answer": "Oregon Trail",
+      "question": "In Idaho this overland pioneer trail roughly followed the Snake River",
+      "value": 100,
+      "airdate": "1997-03-06T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 693,
+      "invalid_count": null
+    },
+    {
+      "id": 47369,
+      "answer": "The Wilderness Road",
+      "question": "Part of this road was explored by Thomas Walker 19 years before Daniel Boone's 1769 explorations",
+      "value": 200,
+      "airdate": "1997-03-06T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 693,
+      "invalid_count": null
+    },
+    {
+      "id": 47375,
+      "answer": "The Appian Way",
+      "question": "Begun in 312 B.C., it was known in Antiquity as the \"Queen of Roads\"",
+      "value": 300,
+      "airdate": "1997-03-06T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 693,
+      "invalid_count": null
+    },
+    {
+      "id": 47381,
+      "answer": "Pan-American Highway",
+      "question": "This highway links 17 Latin American capitals",
+      "value": 400,
+      "airdate": "1997-03-06T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 693,
+      "invalid_count": null
+    },
+    {
+      "id": 47387,
+      "answer": "Burma Road",
+      "question": "During WWII, the Stilwell Road served as an alternate route for this Asian road occupied by the Japanese",
+      "value": 500,
+      "airdate": "1997-03-06T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 693,
+      "invalid_count": null
+    },
+    {
+      "id": 70177,
+      "answer": "Massachusetts",
+      "question": "Depictions of Pilgrim hats are featured on the signs for this Bay State's turnpike",
+      "value": 100,
+      "airdate": "1999-10-18T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 1629,
+      "invalid_count": null
+    },
+    {
+      "id": 70183,
+      "answer": "Oregon Trail",
+      "question": "Near the Snake River in Idaho, the California Trail split from this trail & terminated in Sacramento",
+      "value": 200,
+      "airdate": "1999-10-18T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 1629,
+      "invalid_count": null
+    },
+    {
+      "id": 70189,
+      "answer": "Chicago",
+      "question": "This Midwestern city's Madison & State Streets form the basis for its address system",
+      "value": 300,
+      "airdate": "1999-10-18T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 1629,
+      "invalid_count": null
+    },
+    {
+      "id": 70195,
+      "answer": "Bourbon Street",
+      "question": "This street in New Orleans' French Quarter was named for an 18th century French royal family, not the whiskey",
+      "value": 400,
+      "airdate": "1999-10-18T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 1629,
+      "invalid_count": null
+    },
+    {
+      "id": 70201,
+      "answer": "Mackinac Bridge",
+      "question": "Michigan's Upper & Lower Peninsulas are connected by this suspension bridge that's 1.58 miles between anchorages",
+      "value": 500,
+      "airdate": "1999-10-18T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 1629,
+      "invalid_count": null
+    },
+    {
+      "id": 87653,
+      "answer": "Pennsylvania Avenue",
+      "question": "Since 1804 the presidential inaugural parade has traveled up this street from the Capitol to the White House",
+      "value": 200,
+      "airdate": "2003-02-28T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 2797,
+      "invalid_count": null
+    },
+    {
+      "id": 87659,
+      "answer": "Downing Street",
+      "question": "The name of this London street off Whitehall is often used to mean the British government",
+      "value": 400,
+      "airdate": "2003-02-28T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 2797,
+      "invalid_count": null
+    },
+    {
+      "id": 87664,
+      "answer": "San Francisco",
+      "question": "Market Street runs from the Ferry Building at the waterfront to the foot of Twin Peaks in this city",
+      "value": 600,
+      "airdate": "2003-02-28T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 2797,
+      "invalid_count": null
+    },
+    {
+      "id": 87669,
+      "answer": "5th Avenue",
+      "question": "In \"Easter Parade\", it's the street on which \"The photographers will snap us\" & you'll be in the rotogravure",
+      "value": 800,
+      "airdate": "2003-02-28T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 2797,
+      "invalid_count": null
+    },
+    {
+      "id": 87674,
+      "answer": "Champs-Elysees",
+      "question": "The name of this Paris thoroughfare means \"Avenue of the Elysian Fields\"",
+      "value": 1000,
+      "airdate": "2003-02-28T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 2797,
+      "invalid_count": null
+    },
+    {
+      "id": 114004,
+      "answer": "Hans Christian Andersen",
+      "question": "Copenhagen's Tivoli Gardens & Town Hall Square lie on opposite sides of a boulevard named for this writer",
+      "value": 200,
+      "airdate": "2007-04-26T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 1814,
+      "invalid_count": null
+    },
+    {
+      "id": 114010,
+      "answer": "Rodeo Drive",
+      "question": "Every Father's Day, this 3-block-long Holy Grail of shopping in Beverly Hills is closed for a vintage car show",
+      "value": 400,
+      "airdate": "2007-04-26T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 1814,
+      "invalid_count": null
+    },
+    {
+      "id": 114016,
+      "answer": "Canal Street",
+      "question": "This New Orleans street name is derived from a never-built waterway connecting Lake Pontchartrain with the Mississippi",
+      "value": 600,
+      "airdate": "2007-04-26T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 1814,
+      "invalid_count": null
+    },
+    {
+      "id": 114022,
+      "answer": "Pacific Coast Highway",
+      "question": "The PCH, which stands for this, runs from near San Juan Capistrano to near El Rio",
+      "value": 800,
+      "airdate": "2007-04-26T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 1814,
+      "invalid_count": null
+    },
+    {
+      "id": 114028,
+      "answer": "Philadelphia",
+      "question": "The New Year's Day Mummers Parade travels north up Broad Street, ending at City Hall in this city",
+      "value": 1000,
+      "airdate": "2007-04-26T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 1814,
+      "invalid_count": null
+    },
+    {
+      "id": 117275,
+      "answer": "the Freedom Trail",
+      "question": "This 3-mile route in Boston is marked by a line of red paint or red brick on the sidewalk",
+      "value": 800,
+      "airdate": "2006-11-24T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 1392,
+      "invalid_count": null
+    },
+    {
+      "id": 117281,
+      "answer": "Threadneedle Street",
+      "question": "The Bank of England is \"The Old Lady of\" this street; the London Stock Exchange was there until 2004",
+      "value": 1000,
+      "airdate": "2006-11-24T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 1392,
+      "invalid_count": null
+    },
+    {
+      "id": 117263,
+      "answer": "the Champs-ÃlysÃ©es",
+      "question": "The Tour de France ends on this boulevard",
+      "value": null,
+      "airdate": "2006-11-24T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 1392,
+      "invalid_count": null
+    },
+    {
+      "id": 117269,
+      "answer": "State Street",
+      "question": "Chicago's street addresses emanate from Point Zero, the intersection of Madison Avenue & this street",
+      "value": 600,
+      "airdate": "2006-11-24T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 1392,
+      "invalid_count": null
+    },
+    {
+      "id": 141737,
+      "answer": "Massachusetts",
+      "question": "In the 1950s Paul Revere's ride was depicted on signs for this state's I-90 turnpike",
+      "value": 200,
+      "airdate": "2011-04-07T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 3617,
+      "invalid_count": null
+    },
+    {
+      "id": 141743,
+      "answer": "the Pan-American Highway",
+      "question": "Starting in Nuevo Laredo, Mexico, the Inter-American Highway is a 3,400-mile section of this network of highways",
+      "value": 400,
+      "airdate": "2011-04-07T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 3617,
+      "invalid_count": null
+    },
+    {
+      "id": 141749,
+      "answer": "the Santa Fe Trail",
+      "question": "First used in 1821, this Old West trail connected Missouri with New Mexico",
+      "value": 600,
+      "airdate": "2011-04-07T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 3617,
+      "invalid_count": null
+    },
+    {
+      "id": 141755,
+      "answer": "the Appian Way",
+      "question": "This road was named for the Roman official who began its construction in 312 B.C.",
+      "value": 800,
+      "airdate": "2011-04-07T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 3617,
+      "invalid_count": null
+    },
+    {
+      "id": 141761,
+      "answer": "the Embarcadero",
+      "question": "This San Francisco waterfront road runs from the Giants' Stadium to Pier 39",
+      "value": 1000,
+      "airdate": "2011-04-07T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 3617,
+      "invalid_count": null
+    },
+    {
+      "id": 148641,
+      "answer": "J",
+      "question": "Washington, D.C. has no streets named for \"Y\", \"Z\" or this letter of the alphabet because of its similarity to \"I\"",
+      "value": 200,
+      "airdate": "2012-04-03T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 3863,
+      "invalid_count": null
+    },
+    {
+      "id": 148646,
+      "answer": "Penny Lane",
+      "question": "In a Beatles song this street named for an 18th century slave ship owner runs \"beneath the blue suburban skies\" of Liverpool",
+      "value": 400,
+      "airdate": "2012-04-03T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 3863,
+      "invalid_count": null
+    },
+    {
+      "id": 148652,
+      "answer": "the Autobahn",
+      "question": "Although there is no standard speed limit on this German highway system, there is a recommended limit of about 80 mph",
+      "value": 600,
+      "airdate": "2012-04-03T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 3863,
+      "invalid_count": null
+    },
+    {
+      "id": 148657,
+      "answer": "the Wilderness Road",
+      "question": "One genealogist estimates around 90% of Kentucky's 1790 population had arrived there via this road",
+      "value": 800,
+      "airdate": "2012-04-03T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 3863,
+      "invalid_count": null
+    },
+    {
+      "id": 148662,
+      "answer": "Bangladesh",
+      "question": "The Grand Trunk Road begins at Peshawar, Pakistan, travels SE though India & ends at Sonargaon in this country",
+      "value": 1000,
+      "airdate": "2012-04-03T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 3863,
+      "invalid_count": null
+    },
+    {
+      "id": 164390,
+      "answer": "Providence (Rhode Island)",
+      "question": "Streets in this state capital include Roger Street, Williams Street & Friendship Street",
+      "value": 200,
+      "airdate": "2013-12-20T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 4377,
+      "invalid_count": null
+    },
+    {
+      "id": 164396,
+      "answer": "Zurich",
+      "question": "Bank vaults beneath this Swiss city's Bahnhofstrasse are said to be crammed with gold & silver",
+      "value": 400,
+      "airdate": "2013-12-20T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 4377,
+      "invalid_count": null
+    },
+    {
+      "id": 164402,
+      "answer": "Route 66",
+      "question": "On its 2,500-mile course to the Pacific, this road passed through the state capitals of Springfield & Oklahoma City",
+      "value": 600,
+      "airdate": "2013-12-20T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 4377,
+      "invalid_count": null
+    },
+    {
+      "id": 164408,
+      "answer": "Whitehall",
+      "question": "The location of offices like the Defence Ministry HQ, this London street has become a synonym for the government",
+      "value": 800,
+      "airdate": "2013-12-20T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 4377,
+      "invalid_count": null
+    },
+    {
+      "id": 164414,
+      "answer": "Pearl Street",
+      "question": "(Sarah of the Clue Crew delivers the clue from Grand Central Terminal in New York.) New Yorkers have loved oysters going back to the Indians who have left piles of shells 4 feet deep.  One pile gave this Lower Manhattan street its precious name",
+      "value": 1000,
+      "airdate": "2013-12-20T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 4377,
+      "invalid_count": null
+    },
+    {
+      "id": 175619,
+      "answer": "the Mississippi",
+      "question": "The Great River Road features many scenic sites along this river in 10 states, including Iowa & Minnesota",
+      "value": 200,
+      "airdate": "2016-03-30T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 5228,
+      "invalid_count": null
+    },
+    {
+      "id": 175625,
+      "answer": "Jerusalem",
+      "question": "Along the route of this city's Via Dolorosa are the Stations of the Cross, each associated with an event in Jesus' life",
+      "value": 400,
+      "airdate": "2016-03-30T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 5228,
+      "invalid_count": null
+    },
+    {
+      "id": 175631,
+      "answer": "Broadway",
+      "question": "You'll find the Winter Garden theatre at 1634 this street",
+      "value": 600,
+      "airdate": "2016-03-30T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 5228,
+      "invalid_count": null
+    },
+    {
+      "id": 175637,
+      "answer": "Indianapolis (Motor) Speedway",
+      "question": "Carl Fisher pushed the development of the coast-to-coast Lincoln Highway & in 1909 opened this Midwest facility with faster traffic",
+      "value": 800,
+      "airdate": "2016-03-30T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 5228,
+      "invalid_count": null
+    },
+    {
+      "id": 175643,
+      "answer": "the Appian Way",
+      "question": "Called the \"Queen of Roads\" in antiquity, it stretched from Rome to Brindisi on the Adriatic",
+      "value": 1000,
+      "airdate": "2016-03-30T19:00:00.000Z",
+      "category_id": 3,
+      "game_id": 5228,
+      "invalid_count": null
+    },
+    {
+      "id": 215579,
+      "answer": "lakes",
+      "question": "Opened by the king in 1924, Italy's Autostrada dei Laghi or motorway of these can get you to some famous ones like Varese & Maggiore",
+      "value": 200,
+      "airdate": "2022-02-23T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 7295,
+      "invalid_count": null
+    },
+    {
+      "id": 215585,
+      "answer": "Wall Street",
+      "question": "Dalal Street in Mumbai is to India what this street is to the U.S.; dalal means \"a broker\"",
+      "value": 400,
+      "airdate": "2022-02-23T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 7295,
+      "invalid_count": null
+    },
+    {
+      "id": 215591,
+      "answer": "St. Augustine",
+      "question": "Aviles Street in this Florida city claims the title of oldest street in the nation",
+      "value": 600,
+      "airdate": "2022-02-23T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 7295,
+      "invalid_count": null
+    },
+    {
+      "id": 215597,
+      "answer": "the Trans-Siberian Highway",
+      "question": "Gulag labor was used to build this 7,000-mile highway with the same name as a famous railroad",
+      "value": null,
+      "airdate": "2022-02-23T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 7295,
+      "invalid_count": null
+    },
+    {
+      "id": 215603,
+      "answer": "Princes Street",
+      "question": "Known for shopping & architecture, this Edinburgh street was named for two sons of King George III",
+      "value": 1000,
+      "airdate": "2022-02-23T20:00:00.000Z",
+      "category_id": 3,
+      "game_id": 7295,
+      "invalid_count": null
+    }
+  ]
+}

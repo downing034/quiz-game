@@ -1,1 +1,1 @@
-export const QUESTION_VALUES = [200, 400, 600, 800, 1000];
+export const CLUE_VALUES = [200, 400, 600, 800, 1000];

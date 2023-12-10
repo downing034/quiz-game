@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 import { Questions, MainContextType } from 'models/types';
-import { newEmptyQuestion } from 'models/api';
+import { newEmptyQuestion } from 'models/apiTyping';
 import { MainContext } from 'contexts';
 
 const useQuestion = (categoryId: number, questionValue: number) => {

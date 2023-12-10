@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 import { Categories, MainContextType } from 'models/types';
-import { newEmptyCategory } from 'models/api';
+import { newEmptyCategory } from 'models/apiTyping';
 import { MainContext } from 'contexts';
 
 const useCategory = (categoryId: number) => {

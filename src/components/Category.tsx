@@ -1,8 +1,8 @@
 import { Box, useTheme } from '@mui/material';
-import { Category as CategoryType } from 'models/types';
+import { Category as CategoryType } from 'models/categories/types';
 import CategoryHeader from './CategoryHeader';
 import QuestionValue from './QuestionValue';
-import { QUESTION_VALUES } from 'config/constants';
+import { CLUE_VALUES } from 'config/constants';
 
 export interface CategoryProps {
 	category: CategoryType;
